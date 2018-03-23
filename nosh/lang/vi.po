@@ -1,0 +1,2660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nosh v1.0\n"
+"POT-Creation-Date: 2014-06-19 14:54+0100\n"
+"PO-Revision-Date: 2014-08-28 15:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././archive.php:15
+msgid "category"
+msgstr "Danh Mục"
+
+#: .././archive.php:19
+msgid "tag"
+msgstr ""
+
+#: .././archive.php:25
+msgid "search"
+msgstr "Tìm kiếm"
+
+#: .././archive.php:29
+msgid "author"
+msgstr "Tác giả"
+
+#: .././archive.php:33
+msgid "day"
+msgstr "ngày"
+
+#: .././archive.php:37
+msgid "month"
+msgstr "tháng"
+
+#: .././archive.php:41
+msgid "year"
+msgstr "năm"
+
+#: .././archive.php:45 .././taxonomy-people_category.php:9
+msgid "group"
+msgstr "nhóm"
+
+#: .././archive.php:49
+msgid "browsing"
+msgstr ""
+
+#: .././archive.php:50
+msgid "Unknown"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "results"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "result"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "for"
+msgstr ""
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "No comments"
+msgstr "Không có bình luận"
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "1 comment"
+msgstr "1 bình luận"
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "comments"
+msgstr "bình luận"
+
+#: .././bbpress/bbpress.php:49 .././buddypress/buddypress.php:52
+#: .././inc/templates/template_single.php:178
+#: .././inc/templates/template_single_project.php:56 .././page-contact.php:77
+#: .././page-full-width.php:60 .././page.php:68 .././single-cpt_people.php:89
+msgid "Pages:"
+msgstr "Trang: "
+
+#: .././comments.php:20
+msgid "Reply"
+msgstr "Trả lời"
+
+#: .././comments.php:21
+msgid "Edit"
+msgstr "Sửa"
+
+#: .././comments.php:25
+msgid "Comment awaiting approval"
+msgstr "Bình luận đang đợi phê duyệt"
+
+#: .././comments.php:47
+msgid "No Replies"
+msgstr "Không có trả lời"
+
+#: .././comments.php:47
+msgid "1 Reply"
+msgstr "1 trả lời"
+
+#: .././comments.php:47
+msgid "Replies"
+msgstr "Trả lời"
+
+#: .././comments.php:48
+msgid "to"
+msgstr "tới"
+
+#: .././comments.php:68
+msgid "Comment"
+msgstr "Bình luận"
+
+#: .././comments.php:77
+msgid "Name"
+msgstr "Tên"
+
+#: .././comments.php:78
+msgid "Email"
+msgstr ""
+
+#: .././comments.php:79
+msgid "Website"
+msgstr ""
+
+#: .././comments.php:83
+msgid "Some html is OK"
+msgstr ""
+
+#: .././comments.php:85
+msgid "Got something to say?"
+msgstr "Bạn có điều gì muốn nói?"
+
+#: .././comments.php:86
+msgid "Cancel reply"
+msgstr "Hủy trả lời"
+
+#: .././comments.php:87
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
+
+#: .././functions.php:641 .././functions.php:685 .././functions.php:760
+#: .././page-timeline.php:172 .././page-timeline.php:216
+#: .././page-timeline.php:291
+msgid "more"
+msgstr "nhiều"
+
+#: .././inc/framework/fw_option.php:360
+msgid "Theme default"
+msgstr "Theme mặc định"
+
+#: .././inc/functions/functions_custom.php:65 .././page-portfolio.php:87
+msgid "All categories"
+msgstr "Tất cả Danh mục"
+
+#: .././inc/functions/functions_custom.php:67
+msgid "View all posts filed under "
+msgstr "Xem tất cả các bài theo"
+
+#: .././inc/functions/functions_custom.php:160
+msgid "Category "
+msgstr "Danh mục"
+
+#: .././inc/functions/functions_custom.php:581
+msgid "January"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:582
+msgid "February"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:583
+msgid "March"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:584
+msgid "April"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:585
+#: .././inc/functions/functions_custom.php:598
+msgid "May"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:586
+msgid "June"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:587
+msgid "July"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:588
+msgid "August"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:589
+msgid "September"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:590
+msgid "October"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:591
+msgid "November"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:592
+msgid "December"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:594
+msgid "Jan"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:595
+msgid "Feb"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:596
+msgid "Mar"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:597
+msgid "Apr"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:599
+msgid "Jun"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:600
+msgid "Jul"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:601
+msgid "Aug"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:602
+msgid "Sep"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:603
+msgid "Oct"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:604
+msgid "Nov"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:605
+msgid "Dec"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:607
+msgid "Monday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:608
+msgid "Tuesday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:609
+msgid "Wednesday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:610
+msgid "Thursday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:611
+msgid "Friday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:612
+msgid "Saturday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:613
+msgid "Sunday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:615
+msgid "Mon"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:616
+msgid "Tue"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:617
+msgid "Wed"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:618
+msgid "Thu"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:619
+msgid "Fri"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:620
+msgid "Sat"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:621
+msgid "Sun"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:133
+#: .././inc/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Cài đặt Plugins yêu cầu"
+
+#: .././inc/functions/functions_tgm.php:134
+#: .././inc/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins"
+
+#: .././inc/functions/functions_tgm.php:135
+#: .././inc/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt Plugin: %s"
+
+#: .././inc/functions/functions_tgm.php:136
+msgid "Something went wrong with the plugin API."
+msgstr "Có điều gì đó sai với Plugin API."
+
+#: .././inc/functions/functions_tgm.php:147
+#: .././inc/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "QUay trở lại yêu cầu cài đặt plugins"
+
+#: .././inc/functions/functions_tgm.php:148
+#: .././inc/lib/class-tgm-plugin-activation.php:171
+#: .././inc/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin kích hoạt thành công."
+
+#: .././inc/functions/functions_tgm.php:149
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tất cả plugin được cài đặt và kích hoạt thành công: %s"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Có điều gì đó sai."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Trở lại bảng điều khiển"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr "Các plugin sau đây được kích hoạt thành công: "
+
+#: .././inc/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả plugin được cài đặt và kích hoạt thành công: %1$s"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Liên kết ngoài"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Yêu cầu"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Khuyến nghị"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Không được cài đặt"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Không có plugin nào để cài đăt hay kích hoạt. <a href=\"%1$s\" title="
+"\"Return to the Dashboard\">Quay lại bảng điều khiển</a>"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Trạng thái"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Cài đặt"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Cài đặt gói không có sẵn."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Tải về cà cài đặt gói từ <span class=\"code\">%s</span>&#8230;"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Giải nén gói &#8230;"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Đang cài đăt plugin&#8230;"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin Cài đặt thất bại."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin cài đặt thành công."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin kích hoạt thất bại."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình sẽ mất một thời gian "
+"tại một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt thành công."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Hiện chi tiết"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Tất cả cài đặt và kích hoạt đã hoàn thành."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình sẽ mất một thời gian "
+"tại một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Có lỗi say ra trong khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Việt cài đặt của %1$s failed."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s đã cài đặt thành công."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã hoàn thành."
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đăt Plugin %1$s (%2$d/%3$d)"
+
+#: .././inc/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Quay lại bảng điều khiển"
+
+#: .././inc/options/options_advanced.php:5
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: .././inc/options/options_advanced.php:130
+#: .././inc/options/options_advanced.php:137
+msgid "Widget Areas Manager"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:139
+msgid ""
+"Here you can create new custom widget areas. Give each widget area a unique "
+"name."
+msgstr ""
+"Ở đây bạn có thể tạo ra khu vực widget tùy chỉnh mới. Cung cấp cho mỗi khu "
+"vực widget một tên duy nhất."
+
+#: .././inc/options/options_advanced.php:140
+msgid ""
+"You can drag and drop to decide the order of which the widget areas will "
+"display in the widgets section."
+msgstr ""
+"Bạn có thể kéo và thả để quyết định thứ tự trong đó các khu vực tiện ích sẽ "
+"hiển thị trong phần widget."
+
+#: .././inc/options/options_advanced.php:141
+msgid ""
+"To add widgets to your custom widget areas go to <i>WordPress Appearance > "
+"Widgets</i>."
+msgstr ""
+"Để thêm các widgets cho các khu vực widget tùy chỉnh của bạn đi đến "
+"<i>WordPress Appearance > Widgets</i>."
+
+#: .././inc/options/options_advanced.php:142
+msgid ""
+"To display your custom widget areas go to Pagebuilder and add a Widgets "
+"block to one of your pages."
+msgstr ""
+"Để hiển thị các khu vực widget tùy chỉnh của bạn đi đến Pagebuilder và thêm "
+"một khối Widgets để một trong các trang của bạn."
+
+#: .././inc/options/options_advanced.php:162
+#: .././inc/options/options_advanced.php:185
+msgid "Custom Widget Area Name"
+msgstr "Tùy chỉnh tên vùng widget"
+
+#: .././inc/options/options_advanced.php:163
+#: .././inc/options/options_advanced.php:186
+msgid "Delete"
+msgstr "Xóa"
+
+#: .././inc/options/options_advanced.php:173
+msgid "Custom Widget Areas"
+msgstr "Tùy chỉnh vùng widget"
+
+#: .././inc/options/options_advanced.php:204
+msgid "Create new custom widget area"
+msgstr "Tạo mới tùy chỉnh vùng widget"
+
+#: .././inc/options/options_advanced.php:221
+msgid "Final Call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:229
+msgid "Final call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:231
+msgid ""
+"Put your own CSS code here. This CSS will be called last and overwrites all "
+"theme CSS."
+msgstr ""
+"Đặt mã CSS của bạn ở đây. CSS này sẽ được gọi là cuối cùng và ghi đè tất cả  "
+"theme CSS."
+
+#: .././inc/options/options_advanced.php:232
+msgid ""
+"Final call CSS will be exported/imported along with all other theme settings "
+"when using the <i>Import/Export</i> option."
+msgstr ""
+"Cuối cùng gọi Css sẽ được exported/imported cùng với tất cả các thiết lập "
+"theme khác khi sử dụng <i>Import/Export</i> option."
+
+#: .././inc/options/options_advanced.php:246
+msgid "Use final call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:280
+msgid "Import/Export Settings"
+msgstr "Thiết lập Import/Export"
+
+#: .././inc/options/options_advanced.php:287
+msgid "Import/Export settings"
+msgstr "Thiết lập Import/Export"
+
+#: .././inc/options/options_advanced.php:289
+msgid "Use this section to import/export your settings."
+msgstr "Sử dụng phần này cho thiết lập import/export của bạn."
+
+#: .././inc/options/options_advanced.php:295
+msgid "Generate settings data"
+msgstr "Tạo cài đặt dữ liệu"
+
+#: .././inc/options/options_advanced.php:297
+msgid ""
+"Clicking this button will generate settings data. You can copy this data "
+"from the settings data window."
+msgstr ""
+"Nhấp vào nút này sẽ tạo ra các thiết lập dữ liệu. Bạn có thể sao chép dữ "
+"liệu này từ cửa sổ cài đặt dữ liệu."
+
+#: .././inc/options/options_advanced.php:298
+msgid "Clicking the window will select all text."
+msgstr "Nhấp vào cửa sổ sẽ chọn tất cả văn bản."
+
+#: .././inc/options/options_advanced.php:299
+msgid ""
+"Press CTRL+C on your keyboard or right click selected text and select copy."
+msgstr ""
+"Nhấn phím Ctrl + C trên bàn phím hoặc click chuột phải văn bản đã chọn và "
+"chọn Copy."
+
+#: .././inc/options/options_advanced.php:300
+msgid ""
+"Once you have copied the data you can either save it to a text document/file "
+"(safest) or simply keep the data in your copy/paste clipboard (not safe)."
+msgstr ""
+"Một khi bạn đã sao chép các dữ liệu bạn có thể lưu nó vào một tài liệu văn "
+"bản / tập tin (an toàn nhất) hoặc đơn giản là giữ cho dữ liệu trong sao "
+"chép / dán vào clipboard của bạn (không an toàn)."
+
+#: .././inc/options/options_advanced.php:306
+#: .././inc/options/options_advanced.php:333
+msgid "Import settings data"
+msgstr "Import thiết lập dữ liệu"
+
+#: .././inc/options/options_advanced.php:308
+msgid ""
+"Clicking this button will import your settings data from the data string "
+"supplied in the settings data window."
+msgstr ""
+"Nhấp vào nút này sẽ import thiết lập dữ liệu của bạn từ chuỗi dữ liệu được "
+"cung cấp trong cửa sổ cài đặt dữ liệu."
+
+#: .././inc/options/options_advanced.php:309
+msgid ""
+"Make sure you paste all of the data into the settings data textarea/window. "
+"If part of the code is altered or left out import will fail."
+msgstr ""
+"Hãy chắc chắn rằng bạn dán tất cả các dữ liệu vào các thiết lập dữ liệu vùng "
+"văn bản / cửa sổ. Nếu một phần của mã được thay đổi hoặc bỏ qua import  sẽ "
+"thất bại."
+
+#: .././inc/options/options_advanced.php:310
+msgid "Click the \"Import settings data\" button."
+msgstr "Nhấp vào nút này \"Import settings data\"."
+
+#: .././inc/options/options_advanced.php:311
+msgid "Your setting have now been imported."
+msgstr "Thiết lập của bạn được imported ngay bây giờ."
+
+#: .././inc/options/options_advanced.php:321
+msgid "Settings data"
+msgstr "Thiết lập dữ liệu"
+
+#: .././inc/options/options_advanced.php:344
+msgid "Reset basic settings .."
+msgstr "Thiết lập lại các thiết lập cơ bản .."
+
+#: .././inc/options/options_advanced.php:347
+msgid "Reset all settings .."
+msgstr "Thiết lập lại tất cả thiết lập.."
+
+#: .././inc/options/options_appearance.php:5
+msgid "Appearance"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:35
+#: .././inc/options/options_appearance.php:43
+msgid "Skins"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:45
+msgid "Click a skin-button to change the colour-scheme of the whole theme."
+msgstr "Nhấn vào nút skin để thay đổi màu sắc của toàn bộ theme."
+
+#: .././inc/options/options_appearance.php:130
+msgid "Color settings"
+msgstr "Thiết lập màu sắc"
+
+#: .././inc/options/options_appearance.php:138
+msgid "Colors"
+msgstr "Màu"
+
+#: .././inc/options/options_appearance.php:140
+msgid "Change the colours of the theme. Remember to save your changes."
+msgstr "Thay đổi màu theme. Nhớ là hãy lưu lại thay đổi của bạn."
+
+#: .././inc/options/options_appearance.php:154
+msgid "General Text"
+msgstr "Văn bản chung"
+
+#: .././inc/options/options_appearance.php:161
+msgid "Primary Feature Text"
+msgstr "Tính năng chính của văn bản"
+
+#: .././inc/options/options_appearance.php:168
+msgid "Secondary Feature Text"
+msgstr "Tính năng phụ của văn bản"
+
+#: .././inc/options/options_appearance.php:175
+msgid "Main Plate Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:182
+msgid "Body Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:190
+msgid "Primary Headings"
+msgstr "Tiêu đề chính"
+
+#: .././inc/options/options_appearance.php:197
+msgid "White Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:204
+msgid "Meta Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:211
+msgid "Header Menu Item Active"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:218
+msgid "Pre/Post Header Menu Item"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:225
+msgid "Header Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:232
+msgid "Pre/Post Header Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:239
+msgid "Third Level Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:246
+msgid "Pre/Post Third Level Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:253
+msgid "Primary Feature Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:260
+msgid "Secondary Feature Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:267
+msgid "Tertiary Feature Button / Hover "
+msgstr ""
+
+#: .././inc/options/options_appearance.php:275
+msgid "Primary Feature Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:282
+msgid "Secondary Feature Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:290
+msgid "Pagination Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:297
+msgid "White Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:304
+msgid "Dark Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:311
+msgid "Price Table Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:318
+msgid "Form Fields Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:325
+msgid "Form Fields Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:332
+msgid "Light Block Elements"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:339
+msgid "Border/Rulers Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:346
+msgid "Footer Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:353
+msgid "Footer Base"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:360
+msgid "Footer Headings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:367
+msgid "Footer Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:374
+msgid "Footer Feature Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:381
+msgid "Footer Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:388
+msgid "Footer Form Fields Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:395
+msgid "Footer Form Fields Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:402
+msgid "Footer Form Fields on Focus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:409
+msgid "Footer Border/Rulers Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:416
+msgid "Responsive Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:433
+msgid "Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:440
+#: .././inc/options/options_appearance.php:493
+msgid "Background image URL"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:442
+#: .././inc/options/options_frame.php:523
+#: .././inc/options/options_general.php:82
+msgid "Enter a complete URL to the image you want to use or"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:443
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use this image\" button or"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:444
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use this image\" button."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:445
+#: .././inc/options/options_frame.php:527
+#: .././inc/options/options_general.php:86
+msgid "Remember to save your changes."
+msgstr "Nhớ để lưu thay đổi của bạn."
+
+#: .././inc/options/options_appearance.php:446
+msgid "NB: the background image will be positioned top-center."
+msgstr "Lưu ý: hình nền sẽ được vị trí trung tâm hàng đầu."
+
+#: .././inc/options/options_appearance.php:452
+#: .././inc/options/options_appearance.php:501
+msgid "Background link (optional)"
+msgstr "Liên kết nền (tùy chọn)"
+
+#: .././inc/options/options_appearance.php:454
+msgid ""
+"If you insert a link here you background will automatically be made "
+"clickable. Clicking the background will open up your link in a new window. "
+"Great for take-over style ad-campaigns."
+msgstr ""
+"Nếu bạn chèn một liên kết ở đây bạn có nền sẽ tự động được thực hiện có thể "
+"click. Nhấp nền sẽ mở ra liên kết của bạn trong một cửa sổ mới. Tuyệt vời "
+"cho cất trên phong cách quảng cáo chiến dịch."
+
+#: .././inc/options/options_appearance.php:455
+msgid "NB: Only works with boxed design."
+msgstr "Lưu ý: Chỉ làm việc với thiết kế đóng hộp."
+
+#: .././inc/options/options_appearance.php:461
+#: .././inc/options/options_appearance.php:509
+#: .././inc/options/options_appearance.php:512
+msgid "Repeat"
+msgstr "lặp"
+
+#: .././inc/options/options_appearance.php:463
+msgid "If set to repeat the background image will repeat vertically."
+msgstr "Nếu thiết lập để lặp lại hình nền sẽ lặp lại theo chiều dọc."
+
+#: .././inc/options/options_appearance.php:469
+msgid "Attachement"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:471
+msgid "If set to fixed the background image will not scroll."
+msgstr "Nếu thiết lập để cố định hình nền sẽ không di chuyển."
+
+#: .././inc/options/options_appearance.php:477
+#: .././inc/options/options_appearance.php:532
+msgid "Background pattern"
+msgstr "mẫu nền"
+
+#: .././inc/options/options_appearance.php:479
+msgid ""
+"Click one of buttons to use that background pattern. Notice that the url of "
+"pattern image file will be automatically inserted into the Backgroun image "
+"URL input. Also notice that Repeat and attachment selects will be updated to "
+"recommended selections for use with pattern backgrounds (repeat fixed). "
+"Remember to save your changes."
+msgstr ""
+"Nhấp vào một trong các nút để sử dụng mẫu nền. Chú ý rằng địa chỉ của tập "
+"tin hình ảnh mô hình sẽ được tự động đưa vào đầu vào URL hình ảnh nền. Cũng "
+"cần chú ý rằng Lặp lại và chọn tập tin đính kèm sẽ được cập nhật để lựa chọn "
+"được đề nghị cho sử dụng với các nền tảng mô hình (lặp lại cố định). Hãy nhớ "
+"để lưu thay đổi."
+
+#: .././inc/options/options_appearance.php:495
+msgid "Upload background image"
+msgstr "Tải hình nền"
+
+#: .././inc/options/options_appearance.php:513
+msgid "No repeat"
+msgstr "Không lặp"
+
+#: .././inc/options/options_appearance.php:520
+msgid "Attachment"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:523
+msgid "Fixed"
+msgstr "Cố định"
+
+#: .././inc/options/options_appearance.php:524
+msgid "Scroll"
+msgstr "Cuộn"
+
+#: .././inc/options/options_appearance.php:557
+msgid "Google Webfonts"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:564
+msgid "Change fonts"
+msgstr "Thay đổi phông chữ"
+
+#: .././inc/options/options_appearance.php:566
+msgid "<i>first select:</i> Font name."
+msgstr "<i>Lựa chọn 1:</i> Tên phông chữ."
+
+#: .././inc/options/options_appearance.php:567
+msgid ""
+"<i>middle select:</i> Font variants (will change automatically if available "
+"for the chosen font)."
+msgstr ""
+"<i>Lựa chọn 2:</i> phông chữ variants sẽ thay đổi tự động nếu có sẵn cho các "
+"phông chữ được lựa chọn)."
+
+#: .././inc/options/options_appearance.php:568
+msgid ""
+"<i>last select:</i> Font subset (will change automatically if available for "
+"the chosen font)."
+msgstr ""
+"<i>Lựa chọn cuối:</i> Phông chữ subset (sẽ thay đổi tự động nếu có sẵn cho "
+"các phông chữ được lựa chọn)."
+
+#: .././inc/options/options_appearance.php:574
+msgid "More info"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:576
+msgid ""
+"Notice: You can only control the general fonts to be used. However, "
+"parameters like font size, styling, letter-spacing etc. are controlled by "
+"the theme itself."
+msgstr ""
+"Chú ý: Bạn chỉ có thể kiểm soát phông chữ nói chung được sử dụng. Tuy nhiên, "
+"các thông số như kích cỡ, kiểu dáng, thư-khoảng cách vv được kiểm soát bởi "
+"các chủ đề riêng của mình."
+
+#: .././inc/options/options_appearance.php:577
+msgid ""
+"Go to <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google "
+"Webfonts</a> homepage to preview fonts."
+msgstr ""
+"Go to <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google "
+"Webfonts</a> trang chủ để xem trước phông chữ."
+
+#: .././inc/options/options_appearance.php:591
+msgid "Body text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:598
+msgid "Quote text"
+msgstr "Trích dẫn văn bản"
+
+#: .././inc/options/options_appearance.php:605
+msgid "Lead in text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:612
+msgid "Logo text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:619
+msgid "Bold text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:626
+msgid "Button text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:633
+msgid "Italic text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:640
+msgid "Main headings text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:647
+msgid "Second headings text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:654
+msgid "Nav style text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:661
+msgid "Widget footer text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:678
+msgid "Lightbox settings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:685
+#: .././inc/options/options_appearance.php:712
+msgid "Lightbox overlay color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:687
+msgid "Select the color of the lightbox overlay."
+msgstr "Chọn màu sắc của lớp phủ lightbox."
+
+#: .././inc/options/options_appearance.php:693
+#: .././inc/options/options_appearance.php:719
+msgid "Lightbox overlay opacity"
+msgstr "Lightbox lớp phủ mờ"
+
+#: .././inc/options/options_appearance.php:695
+msgid "Select the opacity of the lightbox overlay."
+msgstr "Chọn Opacity của lớp phủ lightbox."
+
+#: .././inc/options/options_appearance.php:696
+msgid "Choose a value between 0 and 1."
+msgstr "Chọn một giá trị từ 0 đến 1."
+
+#: .././inc/options/options_appearance.php:697
+msgid "0 is completely transparent."
+msgstr "0 là hoàn toàn trong suốt."
+
+#: .././inc/options/options_appearance.php:698
+msgid "1 is compeltely solid."
+msgstr "1 là hoàn toàn solid."
+
+#: .././inc/options/options_appearance.php:740
+msgid "Animation: Image Sliders"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:752
+#: .././inc/options/options_appearance.php:784
+#: .././inc/options/options_appearance.php:836
+#: .././inc/options/options_appearance.php:868
+#: .././inc/options/options_appearance.php:919
+#: .././inc/options/options_appearance.php:951
+msgid "Slideshow"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:754
+#: .././inc/options/options_appearance.php:838
+#: .././inc/options/options_appearance.php:921
+msgid "If checked slides will change automatically."
+msgstr "Nếu slide kiểm tra sẽ thay đổi tự động."
+
+#: .././inc/options/options_appearance.php:760
+#: .././inc/options/options_appearance.php:791
+#: .././inc/options/options_appearance.php:844
+#: .././inc/options/options_appearance.php:875
+#: .././inc/options/options_appearance.php:927
+#: .././inc/options/options_appearance.php:958
+msgid "Slide delay"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:762
+#: .././inc/options/options_appearance.php:846
+#: .././inc/options/options_appearance.php:929
+msgid "Delay between each slide (in milliseconds)."
+msgstr "Delay giữa mỗi slide (giây)."
+
+#: .././inc/options/options_appearance.php:768
+#: .././inc/options/options_appearance.php:803
+#: .././inc/options/options_appearance.php:852
+#: .././inc/options/options_appearance.php:887
+#: .././inc/options/options_appearance.php:935
+#: .././inc/options/options_appearance.php:970
+#: .././inc/options/options_appearance.php:1030
+#: .././inc/options/options_appearance.php:1113
+#: .././inc/options/options_appearance.php:1178
+#: .././inc/options/options_appearance.php:1240
+msgid "Animation duration"
+msgstr "Thời gian Animation"
+
+#: .././inc/options/options_appearance.php:770
+#: .././inc/options/options_appearance.php:854
+#: .././inc/options/options_appearance.php:937
+msgid "Duration of transition animation (in milliseconds)."
+msgstr "Delay giữa mỗi animation (giây)."
+
+#: .././inc/options/options_appearance.php:824
+msgid "Animation: Quote Sliders"
+msgstr "Animation: Trích dẫn Sliders"
+
+#: .././inc/options/options_appearance.php:907
+msgid "Animation: Review Sliders"
+msgstr "Animation: Đánh giá Sliders"
+
+#: .././inc/options/options_appearance.php:911
+msgid "This controls general behavior of review flexsliders used in theme."
+msgstr ""
+"Này điều khiển hành vi chung của flexsliders xem xét sử dụng trong theme."
+
+#: .././inc/options/options_appearance.php:990
+msgid "Animation: Lazy Load Effect"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:998
+msgid "Lazy Load Effect"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1000
+msgid ""
+"When scrolling down elements fade in as they enter the viewport simulating "
+"lazy load."
+msgstr ""
+"Khi di chuyển xuống các yếu tố mờ dần trong khi họ bước vào khung nhìn mô "
+"phỏng lazy load."
+
+#: .././inc/options/options_appearance.php:1006
+#: .././inc/options/options_appearance.php:1075
+msgid "Start animation after"
+msgstr "Bắt đầu animation sau"
+
+#: .././inc/options/options_appearance.php:1008
+msgid "Delay before animation starts (in seconds)."
+msgstr "Delay giữa mỗi animation (giây)."
+
+#: .././inc/options/options_appearance.php:1014
+#: .././inc/options/options_appearance.php:1087
+#: .././inc/options/options_appearance.php:1162
+#: .././inc/options/options_appearance.php:1215
+msgid "Enter from"
+msgstr "Nhập từ"
+
+#: .././inc/options/options_appearance.php:1016
+#: .././inc/options/options_appearance.php:1164
+msgid "Element moves in from this angle."
+msgstr "Yếu tố di chuyển từ góc độ này."
+
+#: .././inc/options/options_appearance.php:1022
+#: .././inc/options/options_appearance.php:1101
+msgid "Move"
+msgstr "Di chuyển"
+
+#: .././inc/options/options_appearance.php:1024
+#: .././inc/options/options_appearance.php:1172
+msgid ""
+"How much the element will move (in pixels). Can be 0 if you do not want the "
+"element to move at all."
+msgstr ""
+"Bao nhiêu phần tử sẽ di chuyển (tính theo điểm ảnh). Có thể là 0 nếu bạn "
+"không muốn các yếu tố để di chuyển."
+
+#: .././inc/options/options_appearance.php:1032
+msgid "How long the fade-in animation lasts (in seconds)."
+msgstr "Các hình ảnh động fade-in kéo dài bao lâu(tính bằng giây)."
+
+#: .././inc/options/options_appearance.php:1038
+#: .././inc/options/options_appearance.php:1125
+msgid "Viewport factor"
+msgstr "yếu tố viewport"
+
+#: .././inc/options/options_appearance.php:1040
+msgid ""
+"How big a part of the element that must enter the viewport for the fade-in "
+"animation to trigger. 0 will trigger fade-in animation right when element "
+"enters viewport. 1 will require the whole element to enter viewport before "
+"triggering fade-in."
+msgstr ""
+"Làm thế nào lớn là một phần của các yếu tố đó phải nhập vào khung nhìn cho "
+"fade-in hình ảnh động để kích hoạt. 0 sẽ kích hoạt fade-in hình ảnh động "
+"đúng khi yếu tố vào viewport. 1 sẽ yêu cầu toàn bộ các yếu tố vào viewport "
+"trước khi kích hoạt fade-in."
+
+#: .././inc/options/options_appearance.php:1054
+msgid "Use on pagebuilder blocks"
+msgstr "Sử dụng trên các khối pagebuilder"
+
+#: .././inc/options/options_appearance.php:1061
+msgid "Use on blog/archive posts"
+msgstr "Sử dụng trên blog / lưu trữ bài viết"
+
+#: .././inc/options/options_appearance.php:1068
+msgid "Use on widgets"
+msgstr "Sử dụng trên widgets"
+
+#: .././inc/options/options_appearance.php:1090
+#: .././inc/options/options_appearance.php:1218
+msgid "Top"
+msgstr "Trên"
+
+#: .././inc/options/options_appearance.php:1091
+#: .././inc/options/options_appearance.php:1219
+#: .././inc/options/options_frame.php:790
+#: .././inc/options/options_general.php:150
+msgid "Right"
+msgstr "Phải"
+
+#: .././inc/options/options_appearance.php:1092
+#: .././inc/options/options_appearance.php:1220
+msgid "Bottom"
+msgstr "Dưới"
+
+#: .././inc/options/options_appearance.php:1093
+#: .././inc/options/options_appearance.php:1221
+#: .././inc/options/options_frame.php:789
+#: .././inc/options/options_general.php:149
+msgid "Left"
+msgstr "Trái"
+
+#: .././inc/options/options_appearance.php:1146
+msgid "Animation: Menus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1154
+#: .././inc/options/options_appearance.php:1202
+msgid "Animate menus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1156
+msgid "Select which menus to animate - or turn off menu animation altogether."
+msgstr "Chọn menu để động - hoặc tắt trình đơn hình ảnh động hoàn toàn."
+
+#: .././inc/options/options_appearance.php:1170
+#: .././inc/options/options_appearance.php:1228
+msgid "Move distance"
+msgstr "Khoảng cáchdi chuyển"
+
+#: .././inc/options/options_appearance.php:1180
+msgid "Duration of the menu animation."
+msgstr "Thời gian của menu animation."
+
+#: .././inc/options/options_appearance.php:1186
+#: .././inc/options/options_appearance.php:1252
+msgid "Delay between elements"
+msgstr "Sự chậm trễ giữa các yếu tố"
+
+#: .././inc/options/options_appearance.php:1188
+msgid "Delay in milliseconds between each menu item starts to appear."
+msgstr "Sự chậm trễ trong giây giữa mỗi mục menu bắt đầu xuất hiện."
+
+#: .././inc/options/options_appearance.php:1205
+#: .././inc/options/options_frame.php:157
+#: .././inc/options/options_frame.php:175
+#: .././inc/options/options_frame.php:194
+#: .././inc/options/options_frame.php:209
+#: .././inc/options/options_frame.php:232
+#: .././inc/options/options_frame.php:250
+#: .././inc/options/options_frame.php:271
+#: .././inc/options/options_frame.php:288
+#: .././inc/options/options_frame.php:312
+#: .././inc/options/options_frame.php:329
+#: .././inc/options/options_frame.php:348
+#: .././inc/options/options_frame.php:363
+msgid "Off"
+msgstr "Tắt"
+
+#: .././inc/options/options_appearance.php:1206
+msgid "Primary menu"
+msgstr "Menu chính"
+
+#: .././inc/options/options_appearance.php:1207
+#: .././inc/options/options_frame.php:129
+msgid "Secondary menu"
+msgstr "Menu phụ"
+
+#: .././inc/options/options_appearance.php:1208
+msgid "Primary + Secondary menu"
+msgstr "Menu chính + phụ"
+
+#: .././inc/options/options_frame.php:5
+msgid "Header & Footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:34
+msgid "Header: General Settings"
+msgstr "Header: Thiết lập chung"
+
+#: .././inc/options/options_frame.php:41
+msgid "Sticky headers"
+msgstr "Tiêu đề chú ý"
+
+#: .././inc/options/options_frame.php:43
+msgid "Make the headers stick to the top of the page when scrolling down."
+msgstr "Làm cho các tiêu đề dính vào phía trên của trang khi di chuyển xuống."
+
+#: .././inc/options/options_frame.php:49 .././inc/options/options_frame.php:88
+msgid "Stickyness in responsive mode"
+msgstr "Stickyness trong chế độ đáp ứng"
+
+#: .././inc/options/options_frame.php:51
+msgid ""
+"Turn off stickyness in responsive mode. Choose the viewport size under which "
+"stickyness will be disabled. The optimal setting depends on your content. If "
+"you have many sticky elements or tall sticky elements you might want to turn "
+"off stickyness at a higher viewport size to avoid the sticky elements taking "
+"up the whole viewport."
+msgstr ""
+"Tắt stickyness trong chế độ đáp ứng. Chọn kích thước khung nhìn theo đó "
+"stickyness sẽ bị vô hiệu. Thiết lập tối ưu phụ thuộc vào nội dung của bạn. "
+"Nếu bạn có nhiều yếu tố dính hoặc các yếu tố dính cao bạn có thể muốn tắt "
+"stickyness tại một kích thước khung nhìn cao hơn để tránh các yếu tố dính "
+"chiếm toàn bộ khung nhìn."
+
+#: .././inc/options/options_frame.php:67
+msgid "Sticky pre-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:74
+msgid "Sticky main header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:81
+msgid "Sticky post-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:91
+msgid "Stickyness is always on"
+msgstr ""
+
+#: .././inc/options/options_frame.php:92
+msgid "Turn off @ viewport width below 768px"
+msgstr "Tắt @ khung nhìn rộng dưới 768px"
+
+#: .././inc/options/options_frame.php:93
+msgid "Turn off @ viewport width below 600px"
+msgstr "Tắt @ khung nhìn rộng dưới 600px"
+
+#: .././inc/options/options_frame.php:94
+msgid "Turn off @ viewport width below 480px"
+msgstr "Tắt @ khung nhìn rộng dưới 480px"
+
+#: .././inc/options/options_frame.php:109
+msgid "Header Builder"
+msgstr ""
+
+#: .././inc/options/options_frame.php:117
+msgid "Header builder"
+msgstr ""
+
+#: .././inc/options/options_frame.php:119
+msgid ""
+"Build your own header. Select elements for each header section using the "
+"selects. Settings for each element can be found below."
+msgstr ""
+"Xây dựng tiêu đề của riêng bạn. Chọn phần cho mỗi phần tiêu đề sử dụng sẽ "
+"chọn. Cài đặt cho mỗi phần tử có thể được tìm thấy dưới đây."
+
+#: .././inc/options/options_frame.php:120
+msgid ""
+"Notice that some elements are only available for certain spots e.g. logo "
+"which can only be placed in the main header etc."
+msgstr ""
+"Chú ý rằng một số yếu tố chỉ có sẵn cho các điểm nhất định ví dụ như biểu "
+"tượng mà chỉ có thể được đặt trong tiêu đề chính, vv"
+
+#: .././inc/options/options_frame.php:126
+msgid "Available elements"
+msgstr "yếu tố có sẵn"
+
+#: .././inc/options/options_frame.php:128
+msgid "Primary menu."
+msgstr "Menu chính."
+
+#: .././inc/options/options_frame.php:130
+#: .././inc/options/options_frame.php:251
+#: .././inc/options/options_frame.php:272
+#: .././inc/options/options_frame.php:289
+#: .././inc/options/options_frame.php:504
+msgid "Logo"
+msgstr ""
+
+#: .././inc/options/options_frame.php:131
+msgid "Header image."
+msgstr ""
+
+#: .././inc/options/options_frame.php:132
+msgid "Social icons"
+msgstr ""
+
+#: .././inc/options/options_frame.php:133
+#: .././inc/options/options_frame.php:179
+#: .././inc/options/options_frame.php:198
+#: .././inc/options/options_frame.php:213
+#: .././inc/options/options_frame.php:255
+#: .././inc/options/options_frame.php:276
+#: .././inc/options/options_frame.php:293
+#: .././inc/options/options_frame.php:333
+#: .././inc/options/options_frame.php:352
+#: .././inc/options/options_frame.php:367
+msgid "Text"
+msgstr "Văn bản"
+
+#: .././inc/options/options_frame.php:134
+msgid "Toolbar (search button)"
+msgstr "Thanh công cụ (nút tìm kiếm)"
+
+#: .././inc/options/options_frame.php:135
+msgid "Ad banner"
+msgstr "banner quảng cáo"
+
+#: .././inc/options/options_frame.php:153
+msgid "Pre-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:158
+#: .././inc/options/options_frame.php:233
+#: .././inc/options/options_frame.php:313
+msgid "Custom Center"
+msgstr "Trung tâm tùy chỉnh"
+
+#: .././inc/options/options_frame.php:159
+#: .././inc/options/options_frame.php:234
+#: .././inc/options/options_frame.php:314
+msgid "Custom Left + Right"
+msgstr "Tùy chỉnh Trái - Phải"
+
+#: .././inc/options/options_frame.php:160
+#: .././inc/options/options_frame.php:235
+msgid "Image header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:176
+#: .././inc/options/options_frame.php:195
+#: .././inc/options/options_frame.php:210
+#: .././inc/options/options_frame.php:252
+#: .././inc/options/options_frame.php:273
+#: .././inc/options/options_frame.php:290
+#: .././inc/options/options_frame.php:330
+#: .././inc/options/options_frame.php:349
+#: .././inc/options/options_frame.php:364
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: .././inc/options/options_frame.php:177
+#: .././inc/options/options_frame.php:196
+#: .././inc/options/options_frame.php:211
+#: .././inc/options/options_frame.php:253
+#: .././inc/options/options_frame.php:274
+#: .././inc/options/options_frame.php:291
+#: .././inc/options/options_frame.php:331
+#: .././inc/options/options_frame.php:350
+#: .././inc/options/options_frame.php:365
+msgid "Secondary Menu"
+msgstr "Menu phụ"
+
+#: .././inc/options/options_frame.php:178
+#: .././inc/options/options_frame.php:197
+#: .././inc/options/options_frame.php:212
+#: .././inc/options/options_frame.php:254
+#: .././inc/options/options_frame.php:275
+#: .././inc/options/options_frame.php:292
+#: .././inc/options/options_frame.php:332
+#: .././inc/options/options_frame.php:351
+#: .././inc/options/options_frame.php:366
+msgid "Social Icons"
+msgstr ""
+
+#: .././inc/options/options_frame.php:180
+#: .././inc/options/options_frame.php:199
+#: .././inc/options/options_frame.php:214
+#: .././inc/options/options_frame.php:256
+#: .././inc/options/options_frame.php:277
+#: .././inc/options/options_frame.php:294
+#: .././inc/options/options_frame.php:334
+#: .././inc/options/options_frame.php:353
+#: .././inc/options/options_frame.php:368
+#: .././inc/options/options_frame.php:1003
+#: .././inc/options/options_frame.php:1010
+msgid "Toolbar"
+msgstr ""
+
+#: .././inc/options/options_frame.php:228
+msgid "Main header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:257
+#: .././inc/options/options_frame.php:278
+#: .././inc/options/options_frame.php:295
+#: .././inc/options/options_frame.php:818
+msgid "Ad Banner"
+msgstr "banner quảng cáo"
+
+#: .././inc/options/options_frame.php:308
+msgid "Post-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:384
+msgid "Main Header Adjustments"
+msgstr "Điều chỉnh tiêu đề chính"
+
+#: .././inc/options/options_frame.php:391
+msgid "Padding top & Padding bottom"
+msgstr ""
+
+#: .././inc/options/options_frame.php:393
+msgid "Used to position your header elements."
+msgstr "Được sử dụng để xác định vị trí các yếu tố tiêu đề của bạn."
+
+#: .././inc/options/options_frame.php:394
+msgid "Increase padding top to create space above the header elements."
+msgstr "Tăng padding top để tạo ra không gian phía trên các yếu tố tiêu đề."
+
+#: .././inc/options/options_frame.php:395
+msgid "Increase padding bottom to create space below the header elements."
+msgstr "Tăng padding bottom để tạo ra không gian bên dưới các yếu tố tiêu đề."
+
+#: .././inc/options/options_frame.php:401
+#: .././inc/options/options_frame.php:449
+msgid "Adjust left element relative position"
+msgstr "Điều chỉnh vị trí tương đối yếu tố trái"
+
+#: .././inc/options/options_frame.php:403
+msgid ""
+"You can fine adjust the left element position. Values are pixels from top-"
+"left."
+msgstr ""
+"Bạn có thể điều chỉnh vị trí các yếu tố bên trái. Các giá trị điểm ảnh từ "
+"trên bên trái."
+
+#: .././inc/options/options_frame.php:409
+#: .././inc/options/options_frame.php:473
+msgid "Adjust right element relative position"
+msgstr "Điều chỉnh vị trí tương đối yếu tố bên phải"
+
+#: .././inc/options/options_frame.php:411
+msgid ""
+"You can fine adjust the right element position. Values are pixels from top-"
+"right."
+msgstr ""
+"Bạn có thể điều chỉnh vị trí các yếu tố bên phải. Các giá trị điểm ảnh từ "
+"trên bên phải."
+
+#: .././inc/options/options_frame.php:425
+msgid "Header padding top"
+msgstr ""
+
+#: .././inc/options/options_frame.php:436
+msgid "Header padding bottom"
+msgstr ""
+
+#: .././inc/options/options_frame.php:511
+#: .././inc/options/options_frame.php:865
+msgid "General logo hierarchy"
+msgstr "Hệ thống cấp bậc biểu tượng chung"
+
+#: .././inc/options/options_frame.php:513
+msgid "by default the theme logo will be displayed"
+msgstr "theo mặc định biểu tượng chủ đề sẽ được hiển thị"
+
+#: .././inc/options/options_frame.php:514
+msgid ""
+"if you enter a logo image URL this image will be displayed instead of the "
+"theme logo."
+msgstr ""
+"nếu bạn nhập URL của hình ảnh biểu trưng hình ảnh này sẽ được hiển thị thay "
+"vì biểu tượng chủ đề."
+
+#: .././inc/options/options_frame.php:515
+msgid ""
+"if you enter text as logo this text will be displayed instead of any custom "
+"logo image and instead of the theme logo."
+msgstr ""
+"nếu bạn nhập văn bản như biểu tượng văn bản này sẽ được hiển thị thay vì bất "
+"kỳ hình ảnh biểu tượng tùy chỉnh và thay vì biểu tượng chủ đề."
+
+#: .././inc/options/options_frame.php:521
+#: .././inc/options/options_frame.php:597
+msgid "Logo URL"
+msgstr ""
+
+#: .././inc/options/options_frame.php:524
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use as logo\" button or"
+msgstr ""
+"Nhấp vào nút \"Upload\"  , tải lên một hình ảnh và chắc chắn rằng bạn nhấp "
+"vào nút  \"Use as logo\" hoặc"
+
+#: .././inc/options/options_frame.php:525
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use as logo\" button."
+msgstr ""
+"Nhấp vào nút \"Upload\"  , tải lên một hình ảnh từ tab thư viện phương tiện "
+"truyền thông. Chắc chắn rằng bạn nhấp vào nút  \"Use as logo\" hoặc"
+
+#: .././inc/options/options_frame.php:526
+msgid ""
+"If you leave the URL text field empty the default logo will be displayed."
+msgstr "Nếu bạn để trường văn bản URL trống logo mặc định sẽ được hiển thị."
+
+#: .././inc/options/options_frame.php:533
+#: .././inc/options/options_frame.php:605
+msgid "Use text as logo"
+msgstr "Sử dụng văn bản như logo"
+
+#: .././inc/options/options_frame.php:535
+msgid ""
+"This text will be displayed instead of any logo image. You can select font "
+"for logo text by going to Appearance > Google Webfonts > Logo text."
+msgstr ""
+"Văn bản này sẽ được hiển thị thay vì bất kỳ hình ảnh logo. Bạn có thể chọn "
+"font cho đoạn chữ bằng cách vào Appearance> Google Webfonts> Logo văn bản."
+
+#: .././inc/options/options_frame.php:541
+#: .././inc/options/options_frame.php:612
+msgid "Text as logo size"
+msgstr "Văn bản như kích thước logo"
+
+#: .././inc/options/options_frame.php:543
+msgid "If using text as logo this option lets you set a font size."
+msgstr ""
+"Nếu sử dụng văn bản như biểu tượng tùy chọn này cho phép bạn thiết lập kích "
+"thước font."
+
+#: .././inc/options/options_frame.php:549
+#: .././inc/options/options_frame.php:624
+msgid "Logo max width"
+msgstr "Logo chiều rộng tối đa"
+
+#: .././inc/options/options_frame.php:551
+msgid ""
+"You can control the size of your logo by setting the maximum allowed width "
+"of your logo image."
+msgstr ""
+"Bạn có thể kiểm soát kích thước của logo của bạn bằng cách thiết lập tối đa "
+"cho phép chiều rộng của hình ảnh logo của bạn."
+
+#: .././inc/options/options_frame.php:552
+msgid ""
+"To make your logo HD-ready/retina-ready you should set the logo max width to "
+"half the original width of your image (compression ratio: 2)"
+msgstr ""
+"Để làm cho logo của bạn HD-ready/retina-ready, bạn nên đặt logo chiều rộng "
+"tối đa một nửa chiều rộng ban đầu của hình ảnh của bạn (tỉ lệ nén: 2)"
+
+#: .././inc/options/options_frame.php:569
+msgid "Logo Preview"
+msgstr "Xem trước Logo"
+
+#: .././inc/options/options_frame.php:587
+msgid "Original size: Width: "
+msgstr "Kích thước ban đầu: Chiều rộng:"
+
+#: .././inc/options/options_frame.php:587
+msgid "pixels, height: "
+msgstr ""
+
+#: .././inc/options/options_frame.php:587
+msgid " pixels"
+msgstr ""
+
+#: .././inc/options/options_frame.php:588
+msgid "Resized to max width: "
+msgstr "Thay đổi kích thước chiều rộng tối đa:"
+
+#: .././inc/options/options_frame.php:588
+msgid "pixels. Compression ratio: "
+msgstr "pixel. Tỉ số nén:"
+
+#: .././inc/options/options_frame.php:644
+msgid "Header Image"
+msgstr ""
+
+#: .././inc/options/options_frame.php:651
+#: .././inc/options/options_frame.php:724
+msgid "Show only on homepage"
+msgstr "Chỉ hiển thị trên trang chủ"
+
+#: .././inc/options/options_frame.php:653
+msgid "The header image will only be displayed on the homepage."
+msgstr "Hình ảnh tiêu đề sẽ chỉ được hiển thị trên trang chủ."
+
+#: .././inc/options/options_frame.php:659
+#: .././inc/options/options_frame.php:731
+msgid "Image URL"
+msgstr ""
+
+#: .././inc/options/options_frame.php:661
+msgid ""
+"Insert URL to use as header image or click Select Image button to choose "
+"from media library."
+msgstr ""
+"Chèn URL để sử dụng như là hình ảnh tiêu đề hoặc bấm nút Select hình để lựa "
+"chọn từ thư viện phương tiện truyền thông."
+
+#: .././inc/options/options_frame.php:667
+#: .././inc/options/options_frame.php:739
+msgid "Background color"
+msgstr "màu nền"
+
+#: .././inc/options/options_frame.php:669
+msgid ""
+"Set header image background color. Useful when using transparent image files."
+msgstr ""
+"Đặt màu nền của hình ảnh tiêu đề. Có ích khi sử dụng tập tin hình ảnh trong "
+"suốt."
+
+#: .././inc/options/options_frame.php:675
+#: .././inc/options/options_frame.php:746
+msgid "Header height"
+msgstr "chiều cao tiêu đề"
+
+#: .././inc/options/options_frame.php:677
+msgid "Set header image height"
+msgstr "Thiết lập chiều cao hình ảnh tiêu đề"
+
+#: .././inc/options/options_frame.php:683
+#: .././inc/options/options_frame.php:758
+msgid "Use Parallax Scrolling"
+msgstr "Sử dụng Parallax Scrolling"
+
+#: .././inc/options/options_frame.php:685
+msgid "Enable parallax scrolling."
+msgstr "Cho phép parallax scrolling."
+
+#: .././inc/options/options_frame.php:691
+#: .././inc/options/options_frame.php:765
+msgid "Parallax ratio"
+msgstr ""
+
+#: .././inc/options/options_frame.php:693
+msgid ""
+"Number usually between 0 and 1 (but can be up to 2). 1 is no parallax "
+"scroll. 0 is max parallax scroll (image does not move when window is "
+"scrolling). Above 1 and image will scroll more than window."
+msgstr ""
+"Số thường giữa 0 và 1 (nhưng có thể lên đến 2). 1 là không có parallax "
+"scroll. 0 là tối đa parallax scroll (hình ảnh không di chuyển khi cửa sổ "
+"được di chuyển). Trên 1 và hình ảnh sẽ di chuyển nhiều hơn cửa sổ."
+
+#: .././inc/options/options_frame.php:699
+#: .././inc/options/options_frame.php:777
+msgid "Image text"
+msgstr "văn bản hình ảnh"
+
+#: .././inc/options/options_frame.php:701
+msgid "Text to display over header image."
+msgstr "Văn bản để hiển thị trên hình ảnh tiêu đề."
+
+#: .././inc/options/options_frame.php:707
+#: .././inc/options/options_frame.php:797
+msgid "Image text top margin"
+msgstr ""
+
+#: .././inc/options/options_frame.php:709
+msgid "Increase number to position text further down."
+msgstr ""
+
+#: .././inc/options/options_frame.php:733
+msgid "Select Image"
+msgstr "Chọn hình ảnh"
+
+#: .././inc/options/options_frame.php:785
+msgid "Image text alignment"
+msgstr "Liên kết văn bản hình ảnh"
+
+#: .././inc/options/options_frame.php:788
+msgid "Center"
+msgstr "Giữa"
+
+#: .././inc/options/options_frame.php:825
+msgid "Ad Code"
+msgstr "Mã quảng cáo"
+
+#: .././inc/options/options_frame.php:827
+msgid ""
+"Insert your ad code or ad HTML here. If you are unsure what code to use you "
+"should consult your ad provider."
+msgstr ""
+"Chèn mã quảng cáo hoặc HTML quảng cáo của bạn ở đây. Nếu bạn không chắc chắn "
+"những gì mã để sử dụng bạn nên tham khảo ý kiến ​​nhà cung cấp quảng cáo của "
+"bạn."
+
+#: .././inc/options/options_frame.php:842
+msgid "Ad code"
+msgstr "Mã quảng cáo"
+
+#: .././inc/options/options_frame.php:858
+msgid "Header Text"
+msgstr "Tiêu đề văn bản"
+
+#: .././inc/options/options_frame.php:867
+msgid "Text to display in header. Can contain HTML."
+msgstr "Văn bản để hiển thị trong tiêu đề. Có thể chứa HTML."
+
+#: .././inc/options/options_frame.php:882
+msgid "Header text"
+msgstr "Tiêu đề văn bản"
+
+#: .././inc/options/options_frame.php:897
+msgid "Social Links"
+msgstr ""
+
+#: .././inc/options/options_frame.php:904
+#: .././inc/options/options_frame.php:931
+msgid "Show social icons"
+msgstr "Hiện  biểu tượng xã hội"
+
+#: .././inc/options/options_frame.php:906
+msgid ""
+"If checked your social icons will be displayed at the bottom right area of "
+"the footer."
+msgstr ""
+"Nếu được chọn biểu tượng xã hội của bạn sẽ được hiển thị ở khu vực phía dưới "
+"bên phải của footer."
+
+#: .././inc/options/options_frame.php:912
+msgid "Social links"
+msgstr " liên kết xã hội"
+
+#: .././inc/options/options_frame.php:914
+msgid "Choose an icon in the select and attach this to a social link."
+msgstr ""
+"Chọn một biểu tượng trong các lựa chọn này và đính kèm vào một liên kết xã "
+"hội."
+
+#: .././inc/options/options_frame.php:915
+msgid "Make sure you put the whole URL to your social site in the text input."
+msgstr ""
+"Hãy chắc chắn rằng bạn đặt toàn bộ URL cho trang web xã hội của bạn trong "
+"văn bản nhập vào."
+
+#: .././inc/options/options_frame.php:916
+msgid ""
+"You can add a new social link to the end of the list by clicking \"Add "
+"social link"
+msgstr ""
+"Bạn có thể thêm một liên kết xã hội mới vào cuối danh sách bằng cách nhấn "
+"vào \"Thêm liên kết xã hội"
+
+#: .././inc/options/options_frame.php:917
+msgid ""
+"You can remove the last social link in your list by clicking \"Remove social "
+"link\"."
+msgstr ""
+"Bạn có thể loại bỏ các liên kết xã hội cuối cùng trong danh sách của bạn "
+"bằng cách nhấn \"Hủy bỏ liên kết xã hội \"."
+
+#: .././inc/options/options_frame.php:918
+msgid ""
+"You can see a full list of the Font Awesome icons <a href=\"http://"
+"fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>."
+msgstr ""
+"Bạn có thể thấy một danh sách đầy đủ các biểu tượng Font Awesome <a href="
+"\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank"
+"\">here</a>."
+
+#: .././inc/options/options_frame.php:938
+msgid "Open links in new window"
+msgstr "Mở liên kết trong cửa sổ mới"
+
+#: .././inc/options/options_frame.php:954
+msgid "Social link"
+msgstr "liên kết xã hội"
+
+#: .././inc/options/options_frame.php:989
+msgid "Add social link"
+msgstr "Thêm liên kết xã hội"
+
+#: .././inc/options/options_frame.php:990
+msgid "Remove social link"
+msgstr "Loại bỏ liên kết xã hội"
+
+#: .././inc/options/options_frame.php:1012
+msgid "Select what tools to add to the toolbar."
+msgstr "Chọn những công cụ để thêm vào thanh công cụ."
+
+#: .././inc/options/options_frame.php:1027
+msgid "Search button"
+msgstr "Nút tìm kiếm"
+
+#: .././inc/options/options_frame.php:1043
+msgid "Footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1050
+#: .././inc/options/options_frame.php:1081
+msgid "Show widgetized footer"
+msgstr "Hiện widgetized footer"
+
+#: .././inc/options/options_frame.php:1052
+msgid ""
+"Footer containing four widgetized areas. Go to <i>Appearance > Widgets</i> "
+"to add widgets."
+msgstr ""
+
+#: .././inc/options/options_frame.php:1058
+#: .././inc/options/options_frame.php:1088
+msgid "Show social footer"
+msgstr "Hiện liên kết xã hội"
+
+#: .././inc/options/options_frame.php:1060
+msgid "Footer containing footer text and social icons."
+msgstr "Footer chứa văn bản footer và các biểu tượng xã hội."
+
+#: .././inc/options/options_frame.php:1066
+#: .././inc/options/options_frame.php:1095
+msgid "Footer text"
+msgstr "văn bản Footer"
+
+#: .././inc/options/options_frame.php:1068
+msgid "Text to be displayed in the left side of the social footer area."
+msgstr ""
+"Văn bản sẽ được hiển thị ở phía bên trái của khu vực footer trang xã hội."
+
+#: .././inc/options/options_general.php:5
+#: .././inc/options/options_general.php:38
+#: .././inc/options/template_options.php:5
+msgid "General"
+msgstr "Chung"
+
+#: .././inc/options/options_general.php:45
+#: .././inc/options/options_general.php:108
+msgid "Use responsive design"
+msgstr "Sử dụng thiết kế đáp ứng"
+
+#: .././inc/options/options_general.php:47
+msgid ""
+"Responsive design changes the way your site looks depending on the browser "
+"size. This is done to optimize the viewing experience on different devices."
+msgstr ""
+"Thiết kế đáp ứng thay đổi cách trang web của bạn trông tùy thuộc vào kích "
+"thước của trình duyệt. Điều này được thực hiện để tối ưu hóa trải nghiệm "
+"trên các thiết bị khác nhau."
+
+#: .././inc/options/options_general.php:48
+msgid ""
+"Turning off responsive design will make the site look the same across all "
+"devices and browser sizes."
+msgstr ""
+"Tắt thiết kế đáp ứng sẽ làm cho trang web trông giống nhau trên tất cả các "
+"thiết bị và kích thước trình duyệt."
+
+#: .././inc/options/options_general.php:54
+#: .././inc/options/options_general.php:115
+msgid "Use boxed design"
+msgstr "Sử dụng thiết kế đóng hộp"
+
+#: .././inc/options/options_general.php:56
+msgid ""
+"Use boxed design for site layout. Otherwise site will display in full width "
+"layout."
+msgstr ""
+"Sử dụng thiết kế đóng hộp cho bố trí trang web. Nếu trang web sẽ hiển thị "
+"trong bố trí đầy đủ chiều rộng."
+
+#: .././inc/options/options_general.php:62
+#: .././inc/options/options_general.php:122
+msgid "Construction mode"
+msgstr ""
+
+#: .././inc/options/options_general.php:64
+msgid ""
+"Activating construction mode will mean that only logged in users can see the "
+"content of your site. Only exception are pages using the placeholder "
+"template which can still be seen by all."
+msgstr ""
+"Kích hoạt construction mode sẽ có nghĩa là chỉ đăng nhập người dùng có thể "
+"xem nội dung của trang web của bạn. Chỉ có ngoại lệ là các trang bằng cách "
+"sử dụng mẫu giữ chỗ mà vẫn có thể được nhìn thấy bởi tất cả."
+
+#: .././inc/options/options_general.php:65
+msgid ""
+"We suggest that if you use this function you also use a placeholder page as "
+"a \"static homepage\" to let people know that your site is under "
+"construction."
+msgstr ""
+"Chúng tôi đề nghị rằng nếu bạn sử dụng chức năng này, bạn cũng sử dụng một "
+"trang giữ chỗ là một \"trang web tĩnh\" để cho mọi người biết rằng trang web "
+"của bạn đang được xây dựng."
+
+#: .././inc/options/options_general.php:71
+#: .././inc/options/options_general.php:130
+msgid "Construction mode message"
+msgstr ""
+
+#: .././inc/options/options_general.php:73
+msgid ""
+"The message that will be displayed to visitors when in construction mode."
+msgstr "Các tin nhắn sẽ được hiển thị cho du khách khi ở construction mode."
+
+#: .././inc/options/options_general.php:74
+msgid ""
+"Remember that you can set up a placeholder page (using the placeholder page-"
+"template) and use as a homepage as this page type will always display even "
+"when construction mode is active."
+msgstr ""
+"Hãy nhớ rằng bạn có thể thiết lập một trang giữ chỗ (bằng cách sử dụng giữ "
+"chỗ trang-mẫu) và sử dụng như là một trang web như thế này loại trang sẽ "
+"luôn luôn hiển thị ngay cả khi chế độ xây dựng đang hoạt động."
+
+#: .././inc/options/options_general.php:80
+#: .././inc/options/options_general.php:138
+msgid "Favicon URL"
+msgstr "URL hình đại diện"
+
+#: .././inc/options/options_general.php:83
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use as favicon\" button or"
+msgstr ""
+"Nhấp vào \"Tải lên \" nút, tải lên một hình ảnh và chắc chắn rằng bạn nhấp "
+"vào \"Sử dụng như favicon \" nút hoặc"
+
+#: .././inc/options/options_general.php:84
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use as favicon\" button."
+msgstr ""
+"Nhấp vào nút \"Tải lên \" và chọn một hình ảnh từ thẻ thư viện phương tiện "
+"truyền thông. Hãy chắc chắn rằng bạn nhấp vào \"Sử dụng như favicon \" nút."
+
+#: .././inc/options/options_general.php:85
+msgid ""
+"If you leave the URL text field empty the default favicon will be displayed."
+msgstr "Nếu trường văn bản trống URL favicon mặc định sẽ được hiển thị."
+
+#: .././inc/options/options_general.php:92
+#: .././inc/options/options_general.php:146
+msgid "Sidebars alignment"
+msgstr "liên kết sidebars"
+
+#: .././inc/options/options_general.php:94
+msgid "Choose which side to have sidebars on."
+msgstr "Chọn side có sidebar trên."
+
+#: .././inc/options/options_general.php:123
+msgid ""
+"<i>(Warning: only logged-in users will be able to see your site pages.)</i>"
+msgstr ""
+
+#: .././inc/options/options_general.php:159
+msgid "Developer mode"
+msgstr "chế độ phát triển"
+
+#: .././inc/options/options_general.php:180
+msgid "Main Search Autocomplete"
+msgstr "Main Search Tự động hoàn tất"
+
+#: .././inc/options/options_general.php:187
+msgid "Search words"
+msgstr "từ tìm kiếm"
+
+#: .././inc/options/options_general.php:189
+msgid ""
+"When typing a search term in the main search box the autocomplete function "
+"will make search suggestions."
+msgstr ""
+"Khi gõ cụm từ tìm kiếm trong hộp tìm kiếm chính của chức năng tự động hoàn "
+"chỉnh sẽ đưa ra đề nghị tìm kiếm."
+
+#: .././inc/options/options_general.php:190
+msgid ""
+"Enter words or phrases to give as search suggestions. Separate terms with a "
+"comma."
+msgstr ""
+"Nhập từ hoặc cụm từ để cung cấp cho như gợi ý tìm kiếm. Điều khoản riêng "
+"biệt bằng dấu phẩy."
+
+#: .././inc/options/options_general.php:204
+msgid "Suggest these words"
+msgstr "Đề nghị những lời này"
+
+#: .././inc/options/options_general.php:220
+#: .././inc/options/options_general.php:227
+msgid "Google Analytics"
+msgstr ""
+
+#: .././inc/options/options_general.php:229
+msgid ""
+"Enter your <a href=\"http://www.google.com/analytics/\" target=\"_blank"
+"\">Google Analytics</a> code here."
+msgstr ""
+
+#: .././inc/options/options_general.php:230
+msgid ""
+"NB: If you have any Google Analytics plugins installed make sure you only "
+"add you Google Analytics code in one place (either here or in the plugin) or "
+"you will get a duplicate code error."
+msgstr ""
+"Lưu ý: Nếu bạn có bất kỳ plugin Google Analytics cài đặt chắc chắn rằng bạn "
+"chỉ có thêm bạn mã Google Analytics ở một nơi (hoặc ở đây hoặc trong các "
+"plugin), hoặc bạn sẽ nhận được một mã lỗi trùng lặp."
+
+#: .././inc/options/options_general.php:244
+msgid "Google Analytics Code"
+msgstr "Mã Google Analytics"
+
+#: .././inc/options/options_general.php:261
+msgid "Compatibility"
+msgstr "Khả năng tương thích"
+
+#: .././inc/options/options_general.php:268
+#: .././inc/options/options_general.php:293
+msgid "Suppress theme meta description"
+msgstr "Ngăn chặn chủ đề mô tả meta"
+
+#: .././inc/options/options_general.php:270
+msgid ""
+"If using a 3rd party SEO plugin the theme meta description can sometimes "
+"interfere with the plugin meta description."
+msgstr ""
+"Nếu sử dụng một bên thứ 3 SEO Plugin mô tả chủ đề meta đôi khi có thể ảnh "
+"hưởng đến các mô tả meta plugin."
+
+#: .././inc/options/options_general.php:271
+msgid ""
+"Use this option to suppress the theme meta description and use the plugin "
+"meta description instead."
+msgstr ""
+"Sử dụng tùy chọn này để ngăn chặn các chủ đề mô tả meta và sử dụng các mô tả "
+"meta thay thế."
+
+#: .././inc/options/options_general.php:277
+#: .././inc/options/options_general.php:300
+msgid "Chrome/Safari @font-face fix"
+msgstr ""
+
+#: .././inc/options/options_general.php:279
+msgid ""
+"On some server configurations a known bug in Chrome and Safari can prevent "
+"the rendering of serverside @font-face fonts leaving a page blank except for "
+"images and other non-text media. If your site experiences this bug make sure "
+"you turn on the Chrome/Safari @font-face fix."
+msgstr ""
+"Trên một số cấu hình máy chủ một lỗi trong Chrome và Safari có thể ngăn chặn "
+"việc cung cấp serverside @ font-face phông chữ để trống ngoại trừ hình ảnh "
+"và các phương tiện truyền thông không phải văn bản khác một trang. Nếu trang "
+"web của bạn trải qua lỗi này chắc chắn rằng bạn bật Chrome / Safari @ font-"
+"face sửa chữa."
+
+#: .././inc/options/options_help.php:5
+msgid "Help Center"
+msgstr "Trung tâm Trợ giúp"
+
+#: .././inc/options/options_help.php:15
+msgid "Theme documentation"
+msgstr "tài liệu Theme "
+
+#: .././inc/options/options_help.php:19
+msgid "Tutorial Videos"
+msgstr "Video hướng dẫn"
+
+#: .././inc/options/options_post.php:5
+msgid "Posts & Pages"
+msgstr "Bài viết & Trang"
+
+#: .././inc/options/options_post.php:37
+msgid "Single Post"
+msgstr "bài duy nhất"
+
+#: .././inc/options/options_post.php:44 .././inc/options/options_post.php:68
+#: .././inc/options/options_post.php:113 .././inc/options/options_post.php:143
+msgid "Show post navigation"
+msgstr "Hiện điều hướng bài viết"
+
+#: .././inc/options/options_post.php:46
+msgid ""
+"Adds post navigation to posts. Use this to navigate between previous and "
+"next post relative to the current post."
+msgstr ""
+"Cho biết thêm điều hướng bài viết đến bài viết. Sử dụng để di chuyển giữa "
+"các bài trước và tiếp theo liên quan đến bài viết hiện tại."
+
+#: .././inc/options/options_post.php:52 .././inc/options/options_post.php:75
+msgid "Show comments"
+msgstr "Hiển thị nhận xét"
+
+#: .././inc/options/options_post.php:54
+msgid "Displays comments and comment reply form."
+msgstr "Hiển thị nhận xét và bình luận trả lời mẫu."
+
+#: .././inc/options/options_post.php:90
+msgid "Single Person Post"
+msgstr "Người viết duy nhất"
+
+#: .././inc/options/options_post.php:97 .././inc/options/options_post.php:129
+msgid "Show title/position"
+msgstr "Hiển thị tiêu đề / vị trí"
+
+#: .././inc/options/options_post.php:99
+msgid "Show title/position meta info on single person page."
+msgstr "Hiển thị tiêu đề / vị trí thông tin meta trên trang cá nhân duy nhất."
+
+#: .././inc/options/options_post.php:105 .././inc/options/options_post.php:136
+msgid "Show tagline"
+msgstr "Hàng chữ quảng cáo"
+
+#: .././inc/options/options_post.php:107
+msgid "Show tagline meta info on single person page."
+msgstr "Hiển thị thông tin meta chữ quảng cáo trên trang cá nhân duy nhất."
+
+#: .././inc/options/options_post.php:115
+msgid "Show post navigation on single person page."
+msgstr "Hiển thị bài viết trên trang điều hướng người duy nhất."
+
+#: .././inc/options/options_post.php:158
+msgid "Meta info"
+msgstr "thông tin meta"
+
+#: .././inc/options/options_post.php:165
+msgid "Show meta info"
+msgstr "Hiện thông tin meta"
+
+#: .././inc/options/options_post.php:167
+msgid "Choose what meta info to display in posts and blog."
+msgstr "Chọn những gì thông tin meta để hiển thị trong bài viết và blog."
+
+#: .././inc/options/options_post.php:181
+msgid "Show meta info: author"
+msgstr "Hiển thị thông tin meta: tác giả"
+
+#: .././inc/options/options_post.php:188
+msgid "Show meta info: publish date"
+msgstr "Hiển thị thông tin meta: ngày xuất bản"
+
+#: .././inc/options/options_post.php:195
+msgid "Show meta info: comments count"
+msgstr "Hiển thị thông tin meta: số bình luận"
+
+#: .././inc/options/options_post.php:202
+msgid "Show meta info: tags"
+msgstr "Hiển thị thông tin meta: thẻ"
+
+#: .././inc/options/options_post.php:217
+msgid "Blog styled pages"
+msgstr "Blog theo kiểu trang"
+
+#: .././inc/options/options_post.php:224
+msgid "Homepage blog style"
+msgstr ""
+
+#: .././inc/options/options_post.php:226
+msgid ""
+"Blog is displayed as default homepage right when installing the theme. You "
+"can set the style here."
+msgstr ""
+"Blog được hiển thị như trang chủ mặc định đúng khi cài đặt chủ đề. Bạn có "
+"thể thiết lập các style  ở đây."
+
+#: .././inc/options/options_post.php:232 .././inc/options/options_post.php:293
+msgid "Default blog style (page)"
+msgstr ""
+
+#: .././inc/options/options_post.php:240
+msgid "Category pages style"
+msgstr "Style Danh mục trang"
+
+#: .././inc/options/options_post.php:242
+msgid ""
+"Category pages also use a blog layout to display posts. Choose which style "
+"to use."
+msgstr ""
+"Các Danh mục trang cũng sử dụng một cách bố trí blog để hiển thị bài viết. "
+"Chọn style để sử dụng."
+
+#: .././inc/options/options_post.php:248 .././inc/options/options_post.php:315
+msgid "Show category title"
+msgstr "Hiện danh mục tiêu đề"
+
+#: .././inc/options/options_post.php:250
+msgid "Choose to display the category title at the top of category pages."
+msgstr "Chọn hiển thị danh mục tiêu đề ở trên cùng của Danh mục trang."
+
+#: .././inc/options/options_post.php:256 .././inc/options/options_post.php:322
+msgid "Show category description"
+msgstr "Hiện mô tả danh mục"
+
+#: .././inc/options/options_post.php:258
+msgid ""
+"Choose to display the category description at the top of category pages."
+msgstr "Chọn để hiển thị mô tả danh mục ở trên cùng của trang thể loại."
+
+#: .././inc/options/options_post.php:259
+msgid ""
+"You can set the category description at <i>Posts > Categories > Your "
+"category > Description</i>."
+msgstr ""
+"Bạn có thể thiết lập các mô tả danh mục tại <i> Bài viết> Danh mục> danh mục "
+"của bạn> Mô tả </ i>."
+
+#: .././inc/options/options_post.php:265
+msgid "Category pages"
+msgstr "Danh mục trang"
+
+#: .././inc/options/options_post.php:267
+msgid "Category pages will display posts within a certain category."
+msgstr "Danh mục trang sẽ hiển thị bài viết trong một danh mục nhất định."
+
+#: .././inc/options/options_post.php:268
+msgid ""
+"To add a category page to your site go to <i>Appearance > Menus > "
+"Categories</i>. Select a category and click the Add to Menu button. Drag and "
+"drop the new menu item to the desired location in the menu."
+msgstr ""
+"Để thêm một danh mục trang để trang web của bạn đi đến <i> Appearance> Menu> "
+"Danh mục </ i>. Chọn một danh mục và nhấn nút Add Menu. Kéo và thả các mục "
+"menu mới đến vị trí mong muốn trong menu."
+
+#: .././inc/options/options_post.php:282
+msgid "Homepage Blog Style"
+msgstr ""
+
+#: .././inc/options/options_post.php:285 .././inc/options/options_post.php:296
+#: .././inc/options/options_post.php:307
+msgid "Full width"
+msgstr "đầy đủ chiều rộng"
+
+#: .././inc/options/options_post.php:286 .././inc/options/options_post.php:297
+#: .././inc/options/options_post.php:308
+msgid "With sidebar"
+msgstr "với sidebar"
+
+#: .././inc/options/options_post.php:304
+msgid "Category Pages Style"
+msgstr ""
+
+#: .././inc/options/options_post.php:337 .././searchform.php:5
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: .././inc/options/options_post.php:344 .././inc/options/options_post.php:360
+msgid "Search box text"
+msgstr "Hộp tìm kiếm văn bản"
+
+#: .././inc/options/options_post.php:346
+msgid "The text that displays inside the search box."
+msgstr "Các văn bản hiển thị bên trong hộp tìm kiếm."
+
+#: .././inc/options/options_post.php:383 .././inc/options/options_post.php:406
+msgid "404 title"
+msgstr "404 tiêu đề"
+
+#: .././inc/options/options_post.php:385
+msgid "Title that displays on the 404-page."
+msgstr "Tiêu đề hiển thị trên trang 404."
+
+#: .././inc/options/options_post.php:391 .././inc/options/options_post.php:414
+msgid "404 message"
+msgstr "404 tin nhắn"
+
+#: .././inc/options/options_post.php:393
+msgid "Message to display on the 404-page."
+msgstr "Tin nhắn hiển thị trên tràn 404"
+
+#: .././inc/options/options_post.php:431
+msgid "Food menus"
+msgstr ""
+
+#: .././inc/options/options_post.php:438 .././inc/options/options_post.php:461
+msgid "Currency symbol"
+msgstr "ký hiệu tiền tệ"
+
+#: .././inc/options/options_post.php:440
+msgid ""
+"Choose which currency symbol to use. Can be left empty for no currency "
+"symbol."
+msgstr ""
+"Chọn biểu tượng tiền tệ để sử dụng. Có thể để trống không có ký hiệu tiền tệ."
+
+#: .././inc/options/options_post.php:446 .././inc/options/options_post.php:469
+msgid "Currency symbol position"
+msgstr "Vị trí ký hiệu tiền tệ"
+
+#: .././inc/options/options_post.php:448
+msgid ""
+"Choose whether the currency symbol should be prepended or appended the price."
+msgstr "Chọn biểu tượng tiền tệ nên được thêm vào phía trước hoặc nối với giá."
+
+#: .././inc/options/options_post.php:472
+msgid "Prepend"
+msgstr "thêm vào trước"
+
+#: .././inc/options/options_post.php:473
+msgid "Append"
+msgstr "Nối"
+
+#: .././inc/options/options_post.php:502 .././inc/options/options_post.php:534
+msgid "Sidebar on shop and product pages"
+msgstr "Sidebar vào cửa hàng và trang sản phẩm"
+
+#: .././inc/options/options_post.php:504
+msgid "Choose to have a sidebar displayed on your shop and product pages."
+msgstr ""
+"Chọn để có một sidebar hiển thị trên cửa hàng và trang sản phẩm của bạn."
+
+#: .././inc/options/options_post.php:510
+msgid "What about the other WooCommerce pages?"
+msgstr "Điều gì các trang WooCommerce khác?"
+
+#: .././inc/options/options_post.php:512
+msgid ""
+"Other WooCommerce pages use ordinary page templates. You can change which "
+"template to use for each of the WooCommerce pages (sidebar or full width "
+"page templates)."
+msgstr ""
+"Trang WooCommerce khác sử dụng các mẫu trang bình thường. Bạn có thể thay "
+"đổi mà mẫu để sử dụng cho mỗi trang WooCommerce (bên hoặc đầy đủ trang rộng "
+"mẫu)."
+
+#: .././inc/options/options_post.php:518 .././inc/options/options_post.php:554
+msgid "Sidebar for WooCommerce pages"
+msgstr "Sidebar cho các trang WooCommerce"
+
+#: .././inc/options/options_post.php:520
+msgid ""
+"Choose which sidebar to use for your WooCommerce pages. This will be the "
+"same across all WooCommerce pages that have a sidebar."
+msgstr ""
+"Chọn sidebar để sử dụng cho các trang WooCommerce của bạn. Đây sẽ là như "
+"nhau trên tất cả các trang WooCommerce có một sidebar."
+
+#: .././inc/options/options_post.php:596 .././inc/options/options_post.php:620
+msgid "Sidebar on BuddyPress pages"
+msgstr "Sidebar trên trang BuddyPress"
+
+#: .././inc/options/options_post.php:598
+msgid "Choose to have a sidebar displayed on your BuddyPress pages."
+msgstr "Chọn để có một sidebar hiển thị trên trang BuddyPress của bạn."
+
+#: .././inc/options/options_post.php:604 .././inc/options/options_post.php:640
+msgid "Sidebar for BuddyPress pages"
+msgstr "Sidebar cho các trang BuddyPress"
+
+#: .././inc/options/options_post.php:606
+msgid "Choose which sidebar to use for your BuddyPress pages."
+msgstr "Chọn sidebar để sử dụng cho các trang BuddyPress của bạn."
+
+#: .././inc/options/options_post.php:681 .././inc/options/options_post.php:705
+msgid "Sidebar on bbPress pages"
+msgstr "Sidebar trên trang bbPress"
+
+#: .././inc/options/options_post.php:683
+msgid "Choose to have a sidebar displayed on your bbPress pages."
+msgstr "Chọn để có một sidebar hiển thị trên trang bbPress của bạn."
+
+#: .././inc/options/options_post.php:689 .././inc/options/options_post.php:725
+msgid "Sidebar for bbPress pages"
+msgstr "Sidebar cho các trang bbPress"
+
+#: .././inc/options/options_post.php:691
+msgid "Choose which sidebar to use for your bbPress pages."
+msgstr "Chọn sidebar để sử dụng cho các trang bbPress của bạn."
+
+#: .././inc/options/options_post.php:767 .././inc/options/options_post.php:791
+msgid "Sidebar on Events pages"
+msgstr "Sidebar về trang sự kiện"
+
+#: .././inc/options/options_post.php:769
+msgid ""
+"Choose to have a sidebar displayed on your Events pages. Make sure you are "
+"using the Default Events Template (Events > Settings > Display > Events "
+"Template)."
+msgstr ""
+"Chọn để có một sidebar hiển thị trên trang sự kiện của bạn. Hãy chắc chắn "
+"rằng bạn đang sử dụng Default Template Sự kiện (Events> Settings> Display> "
+"Sự kiện Template)."
+
+#: .././inc/options/options_post.php:775 .././inc/options/options_post.php:811
+msgid "Sidebar for Events pages"
+msgstr "Sidebar cho các trang sự kiện"
+
+#: .././inc/options/options_post.php:777
+msgid "Choose which sidebar to use for your Events pages."
+msgstr "Chọn sidebar để sử dụng cho các trang sự kiện của bạn."
+
+#: .././inc/options/options_post_control.php:80
+msgid "What are you looking for?"
+msgstr "Bạn đang tìm kiếm cái gì?"
+
+#: .././inc/options/options_post_control.php:81
+msgid "Page not found"
+msgstr "Trang không tìm thấy"
+
+#: .././inc/options/options_post_control.php:82
+msgid ""
+"Sorry, you're lost my friend, the page you're looking for does not exist "
+"anymore. Take your luck at searching for a new one."
+msgstr ""
+"Xin lỗi, các trang web mà bạn đang tìm kiếm không tồn tại nữa. Hãy thử vận "
+"may của mình tại một tìm kiếm mới."
+
+#: .././inc/templates/template_blog_loop.php:72
+#: .././inc/templates/template_blog_loop.php:198
+#: .././taxonomy-people_category.php:93
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: .././inc/templates/template_post_pagination.php:7
+msgid "Prev"
+msgstr "Trước"
+
+#: .././inc/templates/template_post_pagination.php:15
+msgid "Next"
+msgstr "Tiếp"
+
+#: .././inc/templates/template_single_multi.php:90
+msgid "or use arrow keys to"
+msgstr "hoặc sử dụng phím mũi tên để"
+
+#: .././inc/templates/template_single_multi.php:90
+msgid "navigate"
+msgstr "điều hướng"
+
+#: .././inc/templates/template_widgetized_footer.php:30
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "Please login and add widgets to at least"
+msgstr "Vui lòng đăng nhập và thêm các widgets "
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "of the"
+msgstr "của"
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "footer widget areas"
+msgstr ""
+
+#: .././page-timeline.php:320
+msgid "Load More Posts"
+msgstr "Tải bài viết khác"
+
+#: .././sidebar-404.php:12
+msgid "404 Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar-404.php:13 .././sidebar-bbpress.php:15
+#: .././sidebar-buddypress.php:20 .././sidebar-contact.php:16
+#: .././sidebar-events.php:15 .././sidebar-menu.php:24
+#: .././sidebar-page.php:21 .././sidebar-search.php:14
+#: .././sidebar-woocommerce.php:16 .././sidebar.php:16
+msgid "Please login and add some widgets to this widget area."
+msgstr "Vui lòng đăng nhập và thêm một số widgets cho khu vực widget này."
+
+#: .././sidebar-bbpress.php:14 .././sidebar-buddypress.php:19
+#: .././sidebar-events.php:14 .././sidebar-menu.php:23
+#: .././sidebar-page.php:20 .././sidebar-woocommerce.php:15
+msgid "No Widgets added."
+msgstr "Không có Widget nào được thêm."
+
+#: .././sidebar-contact.php:15
+msgid "Contact Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar-search.php:13
+msgid "Search Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar.php:15
+msgid "Blog / Category Sidebar Widget Area"
+msgstr ""

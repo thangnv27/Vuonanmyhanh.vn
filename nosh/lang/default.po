@@ -1,0 +1,2492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nosh v1.0\n"
+"POT-Creation-Date: 2014-06-19 14:54+0100\n"
+"PO-Revision-Date: 2014-06-19 14:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././archive.php:15
+msgid "category"
+msgstr ""
+
+#: .././archive.php:19
+msgid "tag"
+msgstr ""
+
+#: .././archive.php:25
+msgid "search"
+msgstr ""
+
+#: .././archive.php:29
+msgid "author"
+msgstr ""
+
+#: .././archive.php:33
+msgid "day"
+msgstr ""
+
+#: .././archive.php:37
+msgid "month"
+msgstr ""
+
+#: .././archive.php:41
+msgid "year"
+msgstr ""
+
+#: .././archive.php:45 .././taxonomy-people_category.php:9
+msgid "group"
+msgstr ""
+
+#: .././archive.php:49
+msgid "browsing"
+msgstr ""
+
+#: .././archive.php:50
+msgid "Unknown"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "results"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "result"
+msgstr ""
+
+#: .././archive.php:81 .././taxonomy-people_category.php:35
+msgid "for"
+msgstr ""
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "No comments"
+msgstr ""
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "1 comment"
+msgstr ""
+
+#: .././archive.php:105 .././inc/templates/template_blog_loop.php:78
+#: .././inc/templates/template_blog_loop.php:112
+#: .././inc/templates/template_blog_loop.php:203
+#: .././inc/templates/template_single.php:113
+#: .././inc/templates/template_single_multi.php:40
+msgid "comments"
+msgstr ""
+
+#: .././bbpress/bbpress.php:49 .././buddypress/buddypress.php:52
+#: .././inc/templates/template_single.php:178
+#: .././inc/templates/template_single_project.php:56 .././page-contact.php:77
+#: .././page-full-width.php:60 .././page.php:68 .././single-cpt_people.php:89
+msgid "Pages:"
+msgstr ""
+
+#: .././comments.php:20
+msgid "Reply"
+msgstr ""
+
+#: .././comments.php:21
+msgid "Edit"
+msgstr ""
+
+#: .././comments.php:25
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: .././comments.php:47
+msgid "No Replies"
+msgstr ""
+
+#: .././comments.php:47
+msgid "1 Reply"
+msgstr ""
+
+#: .././comments.php:47
+msgid "Replies"
+msgstr ""
+
+#: .././comments.php:48
+msgid "to"
+msgstr ""
+
+#: .././comments.php:68
+msgid "Comment"
+msgstr ""
+
+#: .././comments.php:77
+msgid "Name"
+msgstr ""
+
+#: .././comments.php:78
+msgid "Email"
+msgstr ""
+
+#: .././comments.php:79
+msgid "Website"
+msgstr ""
+
+#: .././comments.php:83
+msgid "Some html is OK"
+msgstr ""
+
+#: .././comments.php:85
+msgid "Got something to say?"
+msgstr ""
+
+#: .././comments.php:86
+msgid "Cancel reply"
+msgstr ""
+
+#: .././comments.php:87
+msgid "Send Message"
+msgstr ""
+
+#: .././functions.php:641 .././functions.php:685 .././functions.php:760
+#: .././page-timeline.php:172 .././page-timeline.php:216
+#: .././page-timeline.php:291
+msgid "more"
+msgstr ""
+
+#: .././inc/framework/fw_option.php:360
+msgid "Theme default"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:65 .././page-portfolio.php:87
+msgid "All categories"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:67
+msgid "View all posts filed under "
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:160
+msgid "Category "
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:581
+msgid "January"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:582
+msgid "February"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:583
+msgid "March"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:584
+msgid "April"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:585
+#: .././inc/functions/functions_custom.php:598
+msgid "May"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:586
+msgid "June"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:587
+msgid "July"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:588
+msgid "August"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:589
+msgid "September"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:590
+msgid "October"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:591
+msgid "November"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:592
+msgid "December"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:594
+msgid "Jan"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:595
+msgid "Feb"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:596
+msgid "Mar"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:597
+msgid "Apr"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:599
+msgid "Jun"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:600
+msgid "Jul"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:601
+msgid "Aug"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:602
+msgid "Sep"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:603
+msgid "Oct"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:604
+msgid "Nov"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:605
+msgid "Dec"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:607
+msgid "Monday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:608
+msgid "Tuesday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:609
+msgid "Wednesday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:610
+msgid "Thursday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:611
+msgid "Friday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:612
+msgid "Saturday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:613
+msgid "Sunday"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:615
+msgid "Mon"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:616
+msgid "Tue"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:617
+msgid "Wed"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:618
+msgid "Thu"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:619
+msgid "Fri"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:620
+msgid "Sat"
+msgstr ""
+
+#: .././inc/functions/functions_custom.php:621
+msgid "Sun"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:133
+#: .././inc/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:134
+#: .././inc/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:135
+#: .././inc/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:136
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:147
+#: .././inc/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:148
+#: .././inc/lib/class-tgm-plugin-activation.php:171
+#: .././inc/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: .././inc/functions/functions_tgm.php:149
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1950
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: .././inc/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:5
+msgid "Advanced"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:130
+#: .././inc/options/options_advanced.php:137
+msgid "Widget Areas Manager"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:139
+msgid ""
+"Here you can create new custom widget areas. Give each widget area a unique "
+"name."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:140
+msgid ""
+"You can drag and drop to decide the order of which the widget areas will "
+"display in the widgets section."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:141
+msgid ""
+"To add widgets to your custom widget areas go to <i>WordPress Appearance > "
+"Widgets</i>."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:142
+msgid ""
+"To display your custom widget areas go to Pagebuilder and add a Widgets "
+"block to one of your pages."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:162
+#: .././inc/options/options_advanced.php:185
+msgid "Custom Widget Area Name"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:163
+#: .././inc/options/options_advanced.php:186
+msgid "Delete"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:173
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:204
+msgid "Create new custom widget area"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:221
+msgid "Final Call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:229
+msgid "Final call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:231
+msgid ""
+"Put your own CSS code here. This CSS will be called last and overwrites all "
+"theme CSS."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:232
+msgid ""
+"Final call CSS will be exported/imported along with all other theme settings "
+"when using the <i>Import/Export</i> option."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:246
+msgid "Use final call CSS"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:280
+msgid "Import/Export Settings"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:287
+msgid "Import/Export settings"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:289
+msgid "Use this section to import/export your settings."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:295
+msgid "Generate settings data"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:297
+msgid ""
+"Clicking this button will generate settings data. You can copy this data "
+"from the settings data window."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:298
+msgid "Clicking the window will select all text."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:299
+msgid ""
+"Press CTRL+C on your keyboard or right click selected text and select copy."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:300
+msgid ""
+"Once you have copied the data you can either save it to a text document/file "
+"(safest) or simply keep the data in your copy/paste clipboard (not safe)."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:306
+#: .././inc/options/options_advanced.php:333
+msgid "Import settings data"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:308
+msgid ""
+"Clicking this button will import your settings data from the data string "
+"supplied in the settings data window."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:309
+msgid ""
+"Make sure you paste all of the data into the settings data textarea/window. "
+"If part of the code is altered or left out import will fail."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:310
+msgid "Click the \"Import settings data\" button."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:311
+msgid "Your setting have now been imported."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:321
+msgid "Settings data"
+msgstr ""
+
+#: .././inc/options/options_advanced.php:344
+msgid "Reset basic settings .."
+msgstr ""
+
+#: .././inc/options/options_advanced.php:347
+msgid "Reset all settings .."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:5
+msgid "Appearance"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:35
+#: .././inc/options/options_appearance.php:43
+msgid "Skins"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:45
+msgid "Click a skin-button to change the colour-scheme of the whole theme."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:130
+msgid "Color settings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:138
+msgid "Colors"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:140
+msgid "Change the colours of the theme. Remember to save your changes."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:154
+msgid "General Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:161
+msgid "Primary Feature Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:168
+msgid "Secondary Feature Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:175
+msgid "Main Plate Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:182
+msgid "Body Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:190
+msgid "Primary Headings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:197
+msgid "White Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:204
+msgid "Meta Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:211
+msgid "Header Menu Item Active"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:218
+msgid "Pre/Post Header Menu Item"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:225
+msgid "Header Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:232
+msgid "Pre/Post Header Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:239
+msgid "Third Level Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:246
+msgid "Pre/Post Third Level Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:253
+msgid "Primary Feature Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:260
+msgid "Secondary Feature Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:267
+msgid "Tertiary Feature Button / Hover "
+msgstr ""
+
+#: .././inc/options/options_appearance.php:275
+msgid "Primary Feature Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:282
+msgid "Secondary Feature Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:290
+msgid "Pagination Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:297
+msgid "White Button"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:304
+msgid "Dark Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:311
+msgid "Price Table Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:318
+msgid "Form Fields Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:325
+msgid "Form Fields Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:332
+msgid "Light Block Elements"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:339
+msgid "Border/Rulers Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:346
+msgid "Footer Block"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:353
+msgid "Footer Base"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:360
+msgid "Footer Headings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:367
+msgid "Footer Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:374
+msgid "Footer Feature Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:381
+msgid "Footer Buttons"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:388
+msgid "Footer Form Fields Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:395
+msgid "Footer Form Fields Text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:402
+msgid "Footer Form Fields on Focus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:409
+msgid "Footer Border/Rulers Color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:416
+msgid "Responsive Menu Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:433
+msgid "Background"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:440
+#: .././inc/options/options_appearance.php:493
+msgid "Background image URL"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:442
+#: .././inc/options/options_frame.php:523
+#: .././inc/options/options_general.php:82
+msgid "Enter a complete URL to the image you want to use or"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:443
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use this image\" button or"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:444
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use this image\" button."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:445
+#: .././inc/options/options_frame.php:527
+#: .././inc/options/options_general.php:86
+msgid "Remember to save your changes."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:446
+msgid "NB: the background image will be positioned top-center."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:452
+#: .././inc/options/options_appearance.php:501
+msgid "Background link (optional)"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:454
+msgid ""
+"If you insert a link here you background will automatically be made "
+"clickable. Clicking the background will open up your link in a new window. "
+"Great for take-over style ad-campaigns."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:455
+msgid "NB: Only works with boxed design."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:461
+#: .././inc/options/options_appearance.php:509
+#: .././inc/options/options_appearance.php:512
+msgid "Repeat"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:463
+msgid "If set to repeat the background image will repeat vertically."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:469
+msgid "Attachement"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:471
+msgid "If set to fixed the background image will not scroll."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:477
+#: .././inc/options/options_appearance.php:532
+msgid "Background pattern"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:479
+msgid ""
+"Click one of buttons to use that background pattern. Notice that the url of "
+"pattern image file will be automatically inserted into the Backgroun image "
+"URL input. Also notice that Repeat and attachment selects will be updated to "
+"recommended selections for use with pattern backgrounds (repeat fixed). "
+"Remember to save your changes."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:495
+msgid "Upload background image"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:513
+msgid "No repeat"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:520
+msgid "Attachment"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:523
+msgid "Fixed"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:524
+msgid "Scroll"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:557
+msgid "Google Webfonts"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:564
+msgid "Change fonts"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:566
+msgid "<i>first select:</i> Font name."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:567
+msgid ""
+"<i>middle select:</i> Font variants (will change automatically if available "
+"for the chosen font)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:568
+msgid ""
+"<i>last select:</i> Font subset (will change automatically if available for "
+"the chosen font)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:574
+msgid "More info"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:576
+msgid ""
+"Notice: You can only control the general fonts to be used. However, "
+"parameters like font size, styling, letter-spacing etc. are controlled by "
+"the theme itself."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:577
+msgid ""
+"Go to <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google "
+"Webfonts</a> homepage to preview fonts."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:591
+msgid "Body text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:598
+msgid "Quote text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:605
+msgid "Lead in text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:612
+msgid "Logo text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:619
+msgid "Bold text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:626
+msgid "Button text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:633
+msgid "Italic text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:640
+msgid "Main headings text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:647
+msgid "Second headings text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:654
+msgid "Nav style text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:661
+msgid "Widget footer text"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:678
+msgid "Lightbox settings"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:685
+#: .././inc/options/options_appearance.php:712
+msgid "Lightbox overlay color"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:687
+msgid "Select the color of the lightbox overlay."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:693
+#: .././inc/options/options_appearance.php:719
+msgid "Lightbox overlay opacity"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:695
+msgid "Select the opacity of the lightbox overlay."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:696
+msgid "Choose a value between 0 and 1."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:697
+msgid "0 is completely transparent."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:698
+msgid "1 is compeltely solid."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:740
+msgid "Animation: Image Sliders"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:752
+#: .././inc/options/options_appearance.php:784
+#: .././inc/options/options_appearance.php:836
+#: .././inc/options/options_appearance.php:868
+#: .././inc/options/options_appearance.php:919
+#: .././inc/options/options_appearance.php:951
+msgid "Slideshow"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:754
+#: .././inc/options/options_appearance.php:838
+#: .././inc/options/options_appearance.php:921
+msgid "If checked slides will change automatically."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:760
+#: .././inc/options/options_appearance.php:791
+#: .././inc/options/options_appearance.php:844
+#: .././inc/options/options_appearance.php:875
+#: .././inc/options/options_appearance.php:927
+#: .././inc/options/options_appearance.php:958
+msgid "Slide delay"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:762
+#: .././inc/options/options_appearance.php:846
+#: .././inc/options/options_appearance.php:929
+msgid "Delay between each slide (in milliseconds)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:768
+#: .././inc/options/options_appearance.php:803
+#: .././inc/options/options_appearance.php:852
+#: .././inc/options/options_appearance.php:887
+#: .././inc/options/options_appearance.php:935
+#: .././inc/options/options_appearance.php:970
+#: .././inc/options/options_appearance.php:1030
+#: .././inc/options/options_appearance.php:1113
+#: .././inc/options/options_appearance.php:1178
+#: .././inc/options/options_appearance.php:1240
+msgid "Animation duration"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:770
+#: .././inc/options/options_appearance.php:854
+#: .././inc/options/options_appearance.php:937
+msgid "Duration of transition animation (in milliseconds)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:824
+msgid "Animation: Quote Sliders"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:907
+msgid "Animation: Review Sliders"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:911
+msgid "This controls general behavior of review flexsliders used in theme."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:990
+msgid "Animation: Lazy Load Effect"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:998
+msgid "Lazy Load Effect"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1000
+msgid ""
+"When scrolling down elements fade in as they enter the viewport simulating "
+"lazy load."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1006
+#: .././inc/options/options_appearance.php:1075
+msgid "Start animation after"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1008
+msgid "Delay before animation starts (in seconds)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1014
+#: .././inc/options/options_appearance.php:1087
+#: .././inc/options/options_appearance.php:1162
+#: .././inc/options/options_appearance.php:1215
+msgid "Enter from"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1016
+#: .././inc/options/options_appearance.php:1164
+msgid "Element moves in from this angle."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1022
+#: .././inc/options/options_appearance.php:1101
+msgid "Move"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1024
+#: .././inc/options/options_appearance.php:1172
+msgid ""
+"How much the element will move (in pixels). Can be 0 if you do not want the "
+"element to move at all."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1032
+msgid "How long the fade-in animation lasts (in seconds)."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1038
+#: .././inc/options/options_appearance.php:1125
+msgid "Viewport factor"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1040
+msgid ""
+"How big a part of the element that must enter the viewport for the fade-in "
+"animation to trigger. 0 will trigger fade-in animation right when element "
+"enters viewport. 1 will require the whole element to enter viewport before "
+"triggering fade-in."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1054
+msgid "Use on pagebuilder blocks"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1061
+msgid "Use on blog/archive posts"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1068
+msgid "Use on widgets"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1090
+#: .././inc/options/options_appearance.php:1218
+msgid "Top"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1091
+#: .././inc/options/options_appearance.php:1219
+#: .././inc/options/options_frame.php:790
+#: .././inc/options/options_general.php:150
+msgid "Right"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1092
+#: .././inc/options/options_appearance.php:1220
+msgid "Bottom"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1093
+#: .././inc/options/options_appearance.php:1221
+#: .././inc/options/options_frame.php:789
+#: .././inc/options/options_general.php:149
+msgid "Left"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1146
+msgid "Animation: Menus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1154
+#: .././inc/options/options_appearance.php:1202
+msgid "Animate menus"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1156
+msgid "Select which menus to animate - or turn off menu animation altogether."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1170
+#: .././inc/options/options_appearance.php:1228
+msgid "Move distance"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1180
+msgid "Duration of the menu animation."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1186
+#: .././inc/options/options_appearance.php:1252
+msgid "Delay between elements"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1188
+msgid "Delay in milliseconds between each menu item starts to appear."
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1205
+#: .././inc/options/options_frame.php:157
+#: .././inc/options/options_frame.php:175
+#: .././inc/options/options_frame.php:194
+#: .././inc/options/options_frame.php:209
+#: .././inc/options/options_frame.php:232
+#: .././inc/options/options_frame.php:250
+#: .././inc/options/options_frame.php:271
+#: .././inc/options/options_frame.php:288
+#: .././inc/options/options_frame.php:312
+#: .././inc/options/options_frame.php:329
+#: .././inc/options/options_frame.php:348
+#: .././inc/options/options_frame.php:363
+msgid "Off"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1206
+msgid "Primary menu"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1207
+#: .././inc/options/options_frame.php:129
+msgid "Secondary menu"
+msgstr ""
+
+#: .././inc/options/options_appearance.php:1208
+msgid "Primary + Secondary menu"
+msgstr ""
+
+#: .././inc/options/options_frame.php:5
+msgid "Header & Footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:34
+msgid "Header: General Settings"
+msgstr ""
+
+#: .././inc/options/options_frame.php:41
+msgid "Sticky headers"
+msgstr ""
+
+#: .././inc/options/options_frame.php:43
+msgid "Make the headers stick to the top of the page when scrolling down."
+msgstr ""
+
+#: .././inc/options/options_frame.php:49 .././inc/options/options_frame.php:88
+msgid "Stickyness in responsive mode"
+msgstr ""
+
+#: .././inc/options/options_frame.php:51
+msgid ""
+"Turn off stickyness in responsive mode. Choose the viewport size under which "
+"stickyness will be disabled. The optimal setting depends on your content. If "
+"you have many sticky elements or tall sticky elements you might want to turn "
+"off stickyness at a higher viewport size to avoid the sticky elements taking "
+"up the whole viewport."
+msgstr ""
+
+#: .././inc/options/options_frame.php:67
+msgid "Sticky pre-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:74
+msgid "Sticky main header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:81
+msgid "Sticky post-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:91
+msgid "Stickyness is always on"
+msgstr ""
+
+#: .././inc/options/options_frame.php:92
+msgid "Turn off @ viewport width below 768px"
+msgstr ""
+
+#: .././inc/options/options_frame.php:93
+msgid "Turn off @ viewport width below 600px"
+msgstr ""
+
+#: .././inc/options/options_frame.php:94
+msgid "Turn off @ viewport width below 480px"
+msgstr ""
+
+#: .././inc/options/options_frame.php:109
+msgid "Header Builder"
+msgstr ""
+
+#: .././inc/options/options_frame.php:117
+msgid "Header builder"
+msgstr ""
+
+#: .././inc/options/options_frame.php:119
+msgid ""
+"Build your own header. Select elements for each header section using the "
+"selects. Settings for each element can be found below."
+msgstr ""
+
+#: .././inc/options/options_frame.php:120
+msgid ""
+"Notice that some elements are only available for certain spots e.g. logo "
+"which can only be placed in the main header etc."
+msgstr ""
+
+#: .././inc/options/options_frame.php:126
+msgid "Available elements"
+msgstr ""
+
+#: .././inc/options/options_frame.php:128
+msgid "Primary menu."
+msgstr ""
+
+#: .././inc/options/options_frame.php:130
+#: .././inc/options/options_frame.php:251
+#: .././inc/options/options_frame.php:272
+#: .././inc/options/options_frame.php:289
+#: .././inc/options/options_frame.php:504
+msgid "Logo"
+msgstr ""
+
+#: .././inc/options/options_frame.php:131
+msgid "Header image."
+msgstr ""
+
+#: .././inc/options/options_frame.php:132
+msgid "Social icons"
+msgstr ""
+
+#: .././inc/options/options_frame.php:133
+#: .././inc/options/options_frame.php:179
+#: .././inc/options/options_frame.php:198
+#: .././inc/options/options_frame.php:213
+#: .././inc/options/options_frame.php:255
+#: .././inc/options/options_frame.php:276
+#: .././inc/options/options_frame.php:293
+#: .././inc/options/options_frame.php:333
+#: .././inc/options/options_frame.php:352
+#: .././inc/options/options_frame.php:367
+msgid "Text"
+msgstr ""
+
+#: .././inc/options/options_frame.php:134
+msgid "Toolbar (search button)"
+msgstr ""
+
+#: .././inc/options/options_frame.php:135
+msgid "Ad banner"
+msgstr ""
+
+#: .././inc/options/options_frame.php:153
+msgid "Pre-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:158
+#: .././inc/options/options_frame.php:233
+#: .././inc/options/options_frame.php:313
+msgid "Custom Center"
+msgstr ""
+
+#: .././inc/options/options_frame.php:159
+#: .././inc/options/options_frame.php:234
+#: .././inc/options/options_frame.php:314
+msgid "Custom Left + Right"
+msgstr ""
+
+#: .././inc/options/options_frame.php:160
+#: .././inc/options/options_frame.php:235
+msgid "Image header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:176
+#: .././inc/options/options_frame.php:195
+#: .././inc/options/options_frame.php:210
+#: .././inc/options/options_frame.php:252
+#: .././inc/options/options_frame.php:273
+#: .././inc/options/options_frame.php:290
+#: .././inc/options/options_frame.php:330
+#: .././inc/options/options_frame.php:349
+#: .././inc/options/options_frame.php:364
+msgid "Primary Menu"
+msgstr ""
+
+#: .././inc/options/options_frame.php:177
+#: .././inc/options/options_frame.php:196
+#: .././inc/options/options_frame.php:211
+#: .././inc/options/options_frame.php:253
+#: .././inc/options/options_frame.php:274
+#: .././inc/options/options_frame.php:291
+#: .././inc/options/options_frame.php:331
+#: .././inc/options/options_frame.php:350
+#: .././inc/options/options_frame.php:365
+msgid "Secondary Menu"
+msgstr ""
+
+#: .././inc/options/options_frame.php:178
+#: .././inc/options/options_frame.php:197
+#: .././inc/options/options_frame.php:212
+#: .././inc/options/options_frame.php:254
+#: .././inc/options/options_frame.php:275
+#: .././inc/options/options_frame.php:292
+#: .././inc/options/options_frame.php:332
+#: .././inc/options/options_frame.php:351
+#: .././inc/options/options_frame.php:366
+msgid "Social Icons"
+msgstr ""
+
+#: .././inc/options/options_frame.php:180
+#: .././inc/options/options_frame.php:199
+#: .././inc/options/options_frame.php:214
+#: .././inc/options/options_frame.php:256
+#: .././inc/options/options_frame.php:277
+#: .././inc/options/options_frame.php:294
+#: .././inc/options/options_frame.php:334
+#: .././inc/options/options_frame.php:353
+#: .././inc/options/options_frame.php:368
+#: .././inc/options/options_frame.php:1003
+#: .././inc/options/options_frame.php:1010
+msgid "Toolbar"
+msgstr ""
+
+#: .././inc/options/options_frame.php:228
+msgid "Main header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:257
+#: .././inc/options/options_frame.php:278
+#: .././inc/options/options_frame.php:295
+#: .././inc/options/options_frame.php:818
+msgid "Ad Banner"
+msgstr ""
+
+#: .././inc/options/options_frame.php:308
+msgid "Post-header"
+msgstr ""
+
+#: .././inc/options/options_frame.php:384
+msgid "Main Header Adjustments"
+msgstr ""
+
+#: .././inc/options/options_frame.php:391
+msgid "Padding top & Padding bottom"
+msgstr ""
+
+#: .././inc/options/options_frame.php:393
+msgid "Used to position your header elements."
+msgstr ""
+
+#: .././inc/options/options_frame.php:394
+msgid "Increase padding top to create space above the header elements."
+msgstr ""
+
+#: .././inc/options/options_frame.php:395
+msgid "Increase padding bottom to create space below the header elements."
+msgstr ""
+
+#: .././inc/options/options_frame.php:401
+#: .././inc/options/options_frame.php:449
+msgid "Adjust left element relative position"
+msgstr ""
+
+#: .././inc/options/options_frame.php:403
+msgid ""
+"You can fine adjust the left element position. Values are pixels from top-"
+"left."
+msgstr ""
+
+#: .././inc/options/options_frame.php:409
+#: .././inc/options/options_frame.php:473
+msgid "Adjust right element relative position"
+msgstr ""
+
+#: .././inc/options/options_frame.php:411
+msgid ""
+"You can fine adjust the right element position. Values are pixels from top-"
+"right."
+msgstr ""
+
+#: .././inc/options/options_frame.php:425
+msgid "Header padding top"
+msgstr ""
+
+#: .././inc/options/options_frame.php:436
+msgid "Header padding bottom"
+msgstr ""
+
+#: .././inc/options/options_frame.php:511
+#: .././inc/options/options_frame.php:865
+msgid "General logo hierarchy"
+msgstr ""
+
+#: .././inc/options/options_frame.php:513
+msgid "by default the theme logo will be displayed"
+msgstr ""
+
+#: .././inc/options/options_frame.php:514
+msgid ""
+"if you enter a logo image URL this image will be displayed instead of the "
+"theme logo."
+msgstr ""
+
+#: .././inc/options/options_frame.php:515
+msgid ""
+"if you enter text as logo this text will be displayed instead of any custom "
+"logo image and instead of the theme logo."
+msgstr ""
+
+#: .././inc/options/options_frame.php:521
+#: .././inc/options/options_frame.php:597
+msgid "Logo URL"
+msgstr ""
+
+#: .././inc/options/options_frame.php:524
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use as logo\" button or"
+msgstr ""
+
+#: .././inc/options/options_frame.php:525
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use as logo\" button."
+msgstr ""
+
+#: .././inc/options/options_frame.php:526
+msgid ""
+"If you leave the URL text field empty the default logo will be displayed."
+msgstr ""
+
+#: .././inc/options/options_frame.php:533
+#: .././inc/options/options_frame.php:605
+msgid "Use text as logo"
+msgstr ""
+
+#: .././inc/options/options_frame.php:535
+msgid ""
+"This text will be displayed instead of any logo image. You can select font "
+"for logo text by going to Appearance > Google Webfonts > Logo text."
+msgstr ""
+
+#: .././inc/options/options_frame.php:541
+#: .././inc/options/options_frame.php:612
+msgid "Text as logo size"
+msgstr ""
+
+#: .././inc/options/options_frame.php:543
+msgid "If using text as logo this option lets you set a font size."
+msgstr ""
+
+#: .././inc/options/options_frame.php:549
+#: .././inc/options/options_frame.php:624
+msgid "Logo max width"
+msgstr ""
+
+#: .././inc/options/options_frame.php:551
+msgid ""
+"You can control the size of your logo by setting the maximum allowed width "
+"of your logo image."
+msgstr ""
+
+#: .././inc/options/options_frame.php:552
+msgid ""
+"To make your logo HD-ready/retina-ready you should set the logo max width to "
+"half the original width of your image (compression ratio: 2)"
+msgstr ""
+
+#: .././inc/options/options_frame.php:569
+msgid "Logo Preview"
+msgstr ""
+
+#: .././inc/options/options_frame.php:587
+msgid "Original size: Width: "
+msgstr ""
+
+#: .././inc/options/options_frame.php:587
+msgid "pixels, height: "
+msgstr ""
+
+#: .././inc/options/options_frame.php:587
+msgid " pixels"
+msgstr ""
+
+#: .././inc/options/options_frame.php:588
+msgid "Resized to max width: "
+msgstr ""
+
+#: .././inc/options/options_frame.php:588
+msgid "pixels. Compression ratio: "
+msgstr ""
+
+#: .././inc/options/options_frame.php:644
+msgid "Header Image"
+msgstr ""
+
+#: .././inc/options/options_frame.php:651
+#: .././inc/options/options_frame.php:724
+msgid "Show only on homepage"
+msgstr ""
+
+#: .././inc/options/options_frame.php:653
+msgid "The header image will only be displayed on the homepage."
+msgstr ""
+
+#: .././inc/options/options_frame.php:659
+#: .././inc/options/options_frame.php:731
+msgid "Image URL"
+msgstr ""
+
+#: .././inc/options/options_frame.php:661
+msgid ""
+"Insert URL to use as header image or click Select Image button to choose "
+"from media library."
+msgstr ""
+
+#: .././inc/options/options_frame.php:667
+#: .././inc/options/options_frame.php:739
+msgid "Background color"
+msgstr ""
+
+#: .././inc/options/options_frame.php:669
+msgid ""
+"Set header image background color. Useful when using transparent image files."
+msgstr ""
+
+#: .././inc/options/options_frame.php:675
+#: .././inc/options/options_frame.php:746
+msgid "Header height"
+msgstr ""
+
+#: .././inc/options/options_frame.php:677
+msgid "Set header image height"
+msgstr ""
+
+#: .././inc/options/options_frame.php:683
+#: .././inc/options/options_frame.php:758
+msgid "Use Parallax Scrolling"
+msgstr ""
+
+#: .././inc/options/options_frame.php:685
+msgid "Enable parallax scrolling."
+msgstr ""
+
+#: .././inc/options/options_frame.php:691
+#: .././inc/options/options_frame.php:765
+msgid "Parallax ratio"
+msgstr ""
+
+#: .././inc/options/options_frame.php:693
+msgid ""
+"Number usually between 0 and 1 (but can be up to 2). 1 is no parallax "
+"scroll. 0 is max parallax scroll (image does not move when window is "
+"scrolling). Above 1 and image will scroll more than window."
+msgstr ""
+
+#: .././inc/options/options_frame.php:699
+#: .././inc/options/options_frame.php:777
+msgid "Image text"
+msgstr ""
+
+#: .././inc/options/options_frame.php:701
+msgid "Text to display over header image."
+msgstr ""
+
+#: .././inc/options/options_frame.php:707
+#: .././inc/options/options_frame.php:797
+msgid "Image text top margin"
+msgstr ""
+
+#: .././inc/options/options_frame.php:709
+msgid "Increase number to position text further down."
+msgstr ""
+
+#: .././inc/options/options_frame.php:733
+msgid "Select Image"
+msgstr ""
+
+#: .././inc/options/options_frame.php:785
+msgid "Image text alignment"
+msgstr ""
+
+#: .././inc/options/options_frame.php:788
+msgid "Center"
+msgstr ""
+
+#: .././inc/options/options_frame.php:825
+msgid "Ad Code"
+msgstr ""
+
+#: .././inc/options/options_frame.php:827
+msgid ""
+"Insert your ad code or ad HTML here. If you are unsure what code to use you "
+"should consult your ad provider."
+msgstr ""
+
+#: .././inc/options/options_frame.php:842
+msgid "Ad code"
+msgstr ""
+
+#: .././inc/options/options_frame.php:858
+msgid "Header Text"
+msgstr ""
+
+#: .././inc/options/options_frame.php:867
+msgid "Text to display in header. Can contain HTML."
+msgstr ""
+
+#: .././inc/options/options_frame.php:882
+msgid "Header text"
+msgstr ""
+
+#: .././inc/options/options_frame.php:897
+msgid "Social Links"
+msgstr ""
+
+#: .././inc/options/options_frame.php:904
+#: .././inc/options/options_frame.php:931
+msgid "Show social icons"
+msgstr ""
+
+#: .././inc/options/options_frame.php:906
+msgid ""
+"If checked your social icons will be displayed at the bottom right area of "
+"the footer."
+msgstr ""
+
+#: .././inc/options/options_frame.php:912
+msgid "Social links"
+msgstr ""
+
+#: .././inc/options/options_frame.php:914
+msgid "Choose an icon in the select and attach this to a social link."
+msgstr ""
+
+#: .././inc/options/options_frame.php:915
+msgid "Make sure you put the whole URL to your social site in the text input."
+msgstr ""
+
+#: .././inc/options/options_frame.php:916
+msgid ""
+"You can add a new social link to the end of the list by clicking \"Add "
+"social link"
+msgstr ""
+
+#: .././inc/options/options_frame.php:917
+msgid ""
+"You can remove the last social link in your list by clicking \"Remove social "
+"link\"."
+msgstr ""
+
+#: .././inc/options/options_frame.php:918
+msgid ""
+"You can see a full list of the Font Awesome icons <a href=\"http://"
+"fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: .././inc/options/options_frame.php:938
+msgid "Open links in new window"
+msgstr ""
+
+#: .././inc/options/options_frame.php:954
+msgid "Social link"
+msgstr ""
+
+#: .././inc/options/options_frame.php:989
+msgid "Add social link"
+msgstr ""
+
+#: .././inc/options/options_frame.php:990
+msgid "Remove social link"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1012
+msgid "Select what tools to add to the toolbar."
+msgstr ""
+
+#: .././inc/options/options_frame.php:1027
+msgid "Search button"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1043
+msgid "Footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1050
+#: .././inc/options/options_frame.php:1081
+msgid "Show widgetized footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1052
+msgid ""
+"Footer containing four widgetized areas. Go to <i>Appearance > Widgets</i> "
+"to add widgets."
+msgstr ""
+
+#: .././inc/options/options_frame.php:1058
+#: .././inc/options/options_frame.php:1088
+msgid "Show social footer"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1060
+msgid "Footer containing footer text and social icons."
+msgstr ""
+
+#: .././inc/options/options_frame.php:1066
+#: .././inc/options/options_frame.php:1095
+msgid "Footer text"
+msgstr ""
+
+#: .././inc/options/options_frame.php:1068
+msgid "Text to be displayed in the left side of the social footer area."
+msgstr ""
+
+#: .././inc/options/options_general.php:5
+#: .././inc/options/options_general.php:38
+#: .././inc/options/template_options.php:5
+msgid "General"
+msgstr ""
+
+#: .././inc/options/options_general.php:45
+#: .././inc/options/options_general.php:108
+msgid "Use responsive design"
+msgstr ""
+
+#: .././inc/options/options_general.php:47
+msgid ""
+"Responsive design changes the way your site looks depending on the browser "
+"size. This is done to optimize the viewing experience on different devices."
+msgstr ""
+
+#: .././inc/options/options_general.php:48
+msgid ""
+"Turning off responsive design will make the site look the same across all "
+"devices and browser sizes."
+msgstr ""
+
+#: .././inc/options/options_general.php:54
+#: .././inc/options/options_general.php:115
+msgid "Use boxed design"
+msgstr ""
+
+#: .././inc/options/options_general.php:56
+msgid ""
+"Use boxed design for site layout. Otherwise site will display in full width "
+"layout."
+msgstr ""
+
+#: .././inc/options/options_general.php:62
+#: .././inc/options/options_general.php:122
+msgid "Construction mode"
+msgstr ""
+
+#: .././inc/options/options_general.php:64
+msgid ""
+"Activating construction mode will mean that only logged in users can see the "
+"content of your site. Only exception are pages using the placeholder "
+"template which can still be seen by all."
+msgstr ""
+
+#: .././inc/options/options_general.php:65
+msgid ""
+"We suggest that if you use this function you also use a placeholder page as "
+"a \"static homepage\" to let people know that your site is under "
+"construction."
+msgstr ""
+
+#: .././inc/options/options_general.php:71
+#: .././inc/options/options_general.php:130
+msgid "Construction mode message"
+msgstr ""
+
+#: .././inc/options/options_general.php:73
+msgid ""
+"The message that will be displayed to visitors when in construction mode."
+msgstr ""
+
+#: .././inc/options/options_general.php:74
+msgid ""
+"Remember that you can set up a placeholder page (using the placeholder page-"
+"template) and use as a homepage as this page type will always display even "
+"when construction mode is active."
+msgstr ""
+
+#: .././inc/options/options_general.php:80
+#: .././inc/options/options_general.php:138
+msgid "Favicon URL"
+msgstr ""
+
+#: .././inc/options/options_general.php:83
+msgid ""
+"Click the \"Upload\" button, upload an image and make sure you click the "
+"\"Use as favicon\" button or"
+msgstr ""
+
+#: .././inc/options/options_general.php:84
+msgid ""
+"Click the \"Upload\" button and choose an image from the media library tab. "
+"Make sure you click the \"Use as favicon\" button."
+msgstr ""
+
+#: .././inc/options/options_general.php:85
+msgid ""
+"If you leave the URL text field empty the default favicon will be displayed."
+msgstr ""
+
+#: .././inc/options/options_general.php:92
+#: .././inc/options/options_general.php:146
+msgid "Sidebars alignment"
+msgstr ""
+
+#: .././inc/options/options_general.php:94
+msgid "Choose which side to have sidebars on."
+msgstr ""
+
+#: .././inc/options/options_general.php:123
+msgid ""
+"<i>(Warning: only logged-in users will be able to see your site pages.)</i>"
+msgstr ""
+
+#: .././inc/options/options_general.php:159
+msgid "Developer mode"
+msgstr ""
+
+#: .././inc/options/options_general.php:180
+msgid "Main Search Autocomplete"
+msgstr ""
+
+#: .././inc/options/options_general.php:187
+msgid "Search words"
+msgstr ""
+
+#: .././inc/options/options_general.php:189
+msgid ""
+"When typing a search term in the main search box the autocomplete function "
+"will make search suggestions."
+msgstr ""
+
+#: .././inc/options/options_general.php:190
+msgid ""
+"Enter words or phrases to give as search suggestions. Separate terms with a "
+"comma."
+msgstr ""
+
+#: .././inc/options/options_general.php:204
+msgid "Suggest these words"
+msgstr ""
+
+#: .././inc/options/options_general.php:220
+#: .././inc/options/options_general.php:227
+msgid "Google Analytics"
+msgstr ""
+
+#: .././inc/options/options_general.php:229
+msgid ""
+"Enter your <a href=\"http://www.google.com/analytics/\" target=\"_blank"
+"\">Google Analytics</a> code here."
+msgstr ""
+
+#: .././inc/options/options_general.php:230
+msgid ""
+"NB: If you have any Google Analytics plugins installed make sure you only "
+"add you Google Analytics code in one place (either here or in the plugin) or "
+"you will get a duplicate code error."
+msgstr ""
+
+#: .././inc/options/options_general.php:244
+msgid "Google Analytics Code"
+msgstr ""
+
+#: .././inc/options/options_general.php:261
+msgid "Compatibility"
+msgstr ""
+
+#: .././inc/options/options_general.php:268
+#: .././inc/options/options_general.php:293
+msgid "Suppress theme meta description"
+msgstr ""
+
+#: .././inc/options/options_general.php:270
+msgid ""
+"If using a 3rd party SEO plugin the theme meta description can sometimes "
+"interfere with the plugin meta description."
+msgstr ""
+
+#: .././inc/options/options_general.php:271
+msgid ""
+"Use this option to suppress the theme meta description and use the plugin "
+"meta description instead."
+msgstr ""
+
+#: .././inc/options/options_general.php:277
+#: .././inc/options/options_general.php:300
+msgid "Chrome/Safari @font-face fix"
+msgstr ""
+
+#: .././inc/options/options_general.php:279
+msgid ""
+"On some server configurations a known bug in Chrome and Safari can prevent "
+"the rendering of serverside @font-face fonts leaving a page blank except for "
+"images and other non-text media. If your site experiences this bug make sure "
+"you turn on the Chrome/Safari @font-face fix."
+msgstr ""
+
+#: .././inc/options/options_help.php:5
+msgid "Help Center"
+msgstr ""
+
+#: .././inc/options/options_help.php:15
+msgid "Theme documentation"
+msgstr ""
+
+#: .././inc/options/options_help.php:19
+msgid "Tutorial Videos"
+msgstr ""
+
+#: .././inc/options/options_post.php:5
+msgid "Posts & Pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:37
+msgid "Single Post"
+msgstr ""
+
+#: .././inc/options/options_post.php:44 .././inc/options/options_post.php:68
+#: .././inc/options/options_post.php:113 .././inc/options/options_post.php:143
+msgid "Show post navigation"
+msgstr ""
+
+#: .././inc/options/options_post.php:46
+msgid ""
+"Adds post navigation to posts. Use this to navigate between previous and "
+"next post relative to the current post."
+msgstr ""
+
+#: .././inc/options/options_post.php:52 .././inc/options/options_post.php:75
+msgid "Show comments"
+msgstr ""
+
+#: .././inc/options/options_post.php:54
+msgid "Displays comments and comment reply form."
+msgstr ""
+
+#: .././inc/options/options_post.php:90
+msgid "Single Person Post"
+msgstr ""
+
+#: .././inc/options/options_post.php:97 .././inc/options/options_post.php:129
+msgid "Show title/position"
+msgstr ""
+
+#: .././inc/options/options_post.php:99
+msgid "Show title/position meta info on single person page."
+msgstr ""
+
+#: .././inc/options/options_post.php:105 .././inc/options/options_post.php:136
+msgid "Show tagline"
+msgstr ""
+
+#: .././inc/options/options_post.php:107
+msgid "Show tagline meta info on single person page."
+msgstr ""
+
+#: .././inc/options/options_post.php:115
+msgid "Show post navigation on single person page."
+msgstr ""
+
+#: .././inc/options/options_post.php:158
+msgid "Meta info"
+msgstr ""
+
+#: .././inc/options/options_post.php:165
+msgid "Show meta info"
+msgstr ""
+
+#: .././inc/options/options_post.php:167
+msgid "Choose what meta info to display in posts and blog."
+msgstr ""
+
+#: .././inc/options/options_post.php:181
+msgid "Show meta info: author"
+msgstr ""
+
+#: .././inc/options/options_post.php:188
+msgid "Show meta info: publish date"
+msgstr ""
+
+#: .././inc/options/options_post.php:195
+msgid "Show meta info: comments count"
+msgstr ""
+
+#: .././inc/options/options_post.php:202
+msgid "Show meta info: tags"
+msgstr ""
+
+#: .././inc/options/options_post.php:217
+msgid "Blog styled pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:224
+msgid "Homepage blog style"
+msgstr ""
+
+#: .././inc/options/options_post.php:226
+msgid ""
+"Blog is displayed as default homepage right when installing the theme. You "
+"can set the style here."
+msgstr ""
+
+#: .././inc/options/options_post.php:232 .././inc/options/options_post.php:293
+msgid "Default blog style (page)"
+msgstr ""
+
+#: .././inc/options/options_post.php:240
+msgid "Category pages style"
+msgstr ""
+
+#: .././inc/options/options_post.php:242
+msgid ""
+"Category pages also use a blog layout to display posts. Choose which style "
+"to use."
+msgstr ""
+
+#: .././inc/options/options_post.php:248 .././inc/options/options_post.php:315
+msgid "Show category title"
+msgstr ""
+
+#: .././inc/options/options_post.php:250
+msgid "Choose to display the category title at the top of category pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:256 .././inc/options/options_post.php:322
+msgid "Show category description"
+msgstr ""
+
+#: .././inc/options/options_post.php:258
+msgid ""
+"Choose to display the category description at the top of category pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:259
+msgid ""
+"You can set the category description at <i>Posts > Categories > Your "
+"category > Description</i>."
+msgstr ""
+
+#: .././inc/options/options_post.php:265
+msgid "Category pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:267
+msgid "Category pages will display posts within a certain category."
+msgstr ""
+
+#: .././inc/options/options_post.php:268
+msgid ""
+"To add a category page to your site go to <i>Appearance > Menus > "
+"Categories</i>. Select a category and click the Add to Menu button. Drag and "
+"drop the new menu item to the desired location in the menu."
+msgstr ""
+
+#: .././inc/options/options_post.php:282
+msgid "Homepage Blog Style"
+msgstr ""
+
+#: .././inc/options/options_post.php:285 .././inc/options/options_post.php:296
+#: .././inc/options/options_post.php:307
+msgid "Full width"
+msgstr ""
+
+#: .././inc/options/options_post.php:286 .././inc/options/options_post.php:297
+#: .././inc/options/options_post.php:308
+msgid "With sidebar"
+msgstr ""
+
+#: .././inc/options/options_post.php:304
+msgid "Category Pages Style"
+msgstr ""
+
+#: .././inc/options/options_post.php:337 .././searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: .././inc/options/options_post.php:344 .././inc/options/options_post.php:360
+msgid "Search box text"
+msgstr ""
+
+#: .././inc/options/options_post.php:346
+msgid "The text that displays inside the search box."
+msgstr ""
+
+#: .././inc/options/options_post.php:383 .././inc/options/options_post.php:406
+msgid "404 title"
+msgstr ""
+
+#: .././inc/options/options_post.php:385
+msgid "Title that displays on the 404-page."
+msgstr ""
+
+#: .././inc/options/options_post.php:391 .././inc/options/options_post.php:414
+msgid "404 message"
+msgstr ""
+
+#: .././inc/options/options_post.php:393
+msgid "Message to display on the 404-page."
+msgstr ""
+
+#: .././inc/options/options_post.php:431
+msgid "Food menus"
+msgstr ""
+
+#: .././inc/options/options_post.php:438 .././inc/options/options_post.php:461
+msgid "Currency symbol"
+msgstr ""
+
+#: .././inc/options/options_post.php:440
+msgid ""
+"Choose which currency symbol to use. Can be left empty for no currency "
+"symbol."
+msgstr ""
+
+#: .././inc/options/options_post.php:446 .././inc/options/options_post.php:469
+msgid "Currency symbol position"
+msgstr ""
+
+#: .././inc/options/options_post.php:448
+msgid ""
+"Choose whether the currency symbol should be prepended or appended the price."
+msgstr ""
+
+#: .././inc/options/options_post.php:472
+msgid "Prepend"
+msgstr ""
+
+#: .././inc/options/options_post.php:473
+msgid "Append"
+msgstr ""
+
+#: .././inc/options/options_post.php:502 .././inc/options/options_post.php:534
+msgid "Sidebar on shop and product pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:504
+msgid "Choose to have a sidebar displayed on your shop and product pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:510
+msgid "What about the other WooCommerce pages?"
+msgstr ""
+
+#: .././inc/options/options_post.php:512
+msgid ""
+"Other WooCommerce pages use ordinary page templates. You can change which "
+"template to use for each of the WooCommerce pages (sidebar or full width "
+"page templates)."
+msgstr ""
+
+#: .././inc/options/options_post.php:518 .././inc/options/options_post.php:554
+msgid "Sidebar for WooCommerce pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:520
+msgid ""
+"Choose which sidebar to use for your WooCommerce pages. This will be the "
+"same across all WooCommerce pages that have a sidebar."
+msgstr ""
+
+#: .././inc/options/options_post.php:596 .././inc/options/options_post.php:620
+msgid "Sidebar on BuddyPress pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:598
+msgid "Choose to have a sidebar displayed on your BuddyPress pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:604 .././inc/options/options_post.php:640
+msgid "Sidebar for BuddyPress pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:606
+msgid "Choose which sidebar to use for your BuddyPress pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:681 .././inc/options/options_post.php:705
+msgid "Sidebar on bbPress pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:683
+msgid "Choose to have a sidebar displayed on your bbPress pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:689 .././inc/options/options_post.php:725
+msgid "Sidebar for bbPress pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:691
+msgid "Choose which sidebar to use for your bbPress pages."
+msgstr ""
+
+#: .././inc/options/options_post.php:767 .././inc/options/options_post.php:791
+msgid "Sidebar on Events pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:769
+msgid ""
+"Choose to have a sidebar displayed on your Events pages. Make sure you are "
+"using the Default Events Template (Events > Settings > Display > Events "
+"Template)."
+msgstr ""
+
+#: .././inc/options/options_post.php:775 .././inc/options/options_post.php:811
+msgid "Sidebar for Events pages"
+msgstr ""
+
+#: .././inc/options/options_post.php:777
+msgid "Choose which sidebar to use for your Events pages."
+msgstr ""
+
+#: .././inc/options/options_post_control.php:80
+msgid "What are you looking for?"
+msgstr ""
+
+#: .././inc/options/options_post_control.php:81
+msgid "Page not found"
+msgstr ""
+
+#: .././inc/options/options_post_control.php:82
+msgid ""
+"Sorry, you're lost my friend, the page you're looking for does not exist "
+"anymore. Take your luck at searching for a new one."
+msgstr ""
+
+#: .././inc/templates/template_blog_loop.php:72
+#: .././inc/templates/template_blog_loop.php:198
+#: .././taxonomy-people_category.php:93
+msgid "Read More"
+msgstr ""
+
+#: .././inc/templates/template_post_pagination.php:7
+msgid "Prev"
+msgstr ""
+
+#: .././inc/templates/template_post_pagination.php:15
+msgid "Next"
+msgstr ""
+
+#: .././inc/templates/template_single_multi.php:90
+msgid "or use arrow keys to"
+msgstr ""
+
+#: .././inc/templates/template_single_multi.php:90
+msgid "navigate"
+msgstr ""
+
+#: .././inc/templates/template_widgetized_footer.php:30
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "Please login and add widgets to at least"
+msgstr ""
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "of the"
+msgstr ""
+
+#: .././inc/templates/template_widgetized_footer.php:31
+msgid "footer widget areas"
+msgstr ""
+
+#: .././page-timeline.php:320
+msgid "Load More Posts"
+msgstr ""
+
+#: .././sidebar-404.php:12
+msgid "404 Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar-404.php:13 .././sidebar-bbpress.php:15
+#: .././sidebar-buddypress.php:20 .././sidebar-contact.php:16
+#: .././sidebar-events.php:15 .././sidebar-menu.php:24
+#: .././sidebar-page.php:21 .././sidebar-search.php:14
+#: .././sidebar-woocommerce.php:16 .././sidebar.php:16
+msgid "Please login and add some widgets to this widget area."
+msgstr ""
+
+#: .././sidebar-bbpress.php:14 .././sidebar-buddypress.php:19
+#: .././sidebar-events.php:14 .././sidebar-menu.php:23
+#: .././sidebar-page.php:20 .././sidebar-woocommerce.php:15
+msgid "No Widgets added."
+msgstr ""
+
+#: .././sidebar-contact.php:15
+msgid "Contact Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar-search.php:13
+msgid "Search Sidebar Widget Area"
+msgstr ""
+
+#: .././sidebar.php:15
+msgid "Blog / Category Sidebar Widget Area"
+msgstr ""
